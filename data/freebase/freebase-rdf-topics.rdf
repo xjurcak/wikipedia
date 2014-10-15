@@ -1,0 +1,147 @@
+<http://rdf.freebase.com/ns/m.0d384p>	<http://rdf.freebase.com/ns/type.object.name>	"Avellaneda"@sk	.
+<http://rdf.freebase.com/ns/m.0d384p>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/location.ar_department>	.
+<http://rdf.freebase.com/ns/m.0d38k5>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.cars_refactor.model>	.
+<http://rdf.freebase.com/ns/m.0d38k5>	<http://rdf.freebase.com/ns/type.object.name>	"Maserati 350S"@en	.
+<http://rdf.freebase.com/ns/m.0d38k5>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>	.
+<http://rdf.freebase.com/ns/m.0d38k5>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/automotive.model>	.
+<http://rdf.freebase.com/ns/m.0d38k5>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.inanimate>	.
+<http://rdf.freebase.com/ns/m.0d38k5>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>	.
+<http://rdf.freebase.com/ns/m.0d38k5>	<http://rdf.freebase.com/ns/type.object.name>	"Maserati 350S"@fr	.
+<http://rdf.freebase.com/ns/m.0d38k5>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>	.
+<http://rdf.freebase.com/ns/m.0d39mw>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.document>	.
+<http://rdf.freebase.com/ns/m.0d3_94>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.agent>	.
+<http://rdf.freebase.com/ns/m.0d3_94>	<http://rdf.freebase.com/ns/common.topic.alias>	"Wade Andrews Williams"@en	.
+<http://rdf.freebase.com/ns/m.0d3_94>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/film.person_or_entity_appearing_in_film>	.
+<http://rdf.freebase.com/ns/m.0d3_94>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>	.
+<http://rdf.freebase.com/ns/m.0d3_94>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/tv.tv_actor>	.
+<http://rdf.freebase.com/ns/m.0d3_94>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/influence.influence_node>	.
+<http://rdf.freebase.com/ns/m.0d3_94>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.physically_instantiable>	.
+<http://rdf.freebase.com/ns/m.0d3_94>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/people.person>	.
+<http://rdf.freebase.com/ns/m.0d3_94>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/music.artist>	.
+<http://rdf.freebase.com/ns/m.0d3_94>	<http://rdf.freebase.com/ns/common.topic.alias>	"Wade Andrew Williams"@fr	.
+<http://rdf.freebase.com/ns/m.0d3_94>	<http://rdf.freebase.com/ns/type.object.name>	"Wade Williams"@fr	.
+<http://rdf.freebase.com/ns/m.0d3_94>	<http://rdf.freebase.com/ns/type.object.name>	"Wade Williams"@en	.
+<http://rdf.freebase.com/ns/m.0d3_94>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.animate>	.
+<http://rdf.freebase.com/ns/m.0d3_94>	<http://rdf.freebase.com/ns/common.topic.alias>	"Wade Andrew Williams"@en	.
+<http://rdf.freebase.com/ns/m.0d3_94>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/film.actor>	.
+<http://rdf.freebase.com/ns/m.0d3_94>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/music.group_member>	.
+<http://rdf.freebase.com/ns/m.0d3_x8_>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/freebase.flag_judgment>	.
+<http://rdf.freebase.com/ns/m.0d3c3yp>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.animate>	.
+<http://rdf.freebase.com/ns/m.0d3c3yp>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/people.person>	.
+<http://rdf.freebase.com/ns/m.0d3c3yp>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.agent>	.
+<http://rdf.freebase.com/ns/m.0d3c3yp>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/music.group_member>	.
+<http://rdf.freebase.com/ns/m.0d3c3yp>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.physically_instantiable>	.
+<http://rdf.freebase.com/ns/m.0d3c3yp>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>	.
+<http://rdf.freebase.com/ns/m.0d3c3yp>	<http://rdf.freebase.com/ns/type.object.name>	"Bruce MacIntyre"@en	.
+<http://rdf.freebase.com/ns/m.0d3cnh>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.physically_instantiable>	.
+<http://rdf.freebase.com/ns/m.0d3cnh>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.agent>	.
+<http://rdf.freebase.com/ns/m.0d3cnh>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.animate>	.
+<http://rdf.freebase.com/ns/m.0d3cnh>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/people.person>	.
+<http://rdf.freebase.com/ns/m.0d3cnh>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>	.
+<http://rdf.freebase.com/ns/m.0d3cnh>	<http://rdf.freebase.com/ns/type.object.name>	"Panabaka Lakshmi"@en	.
+<http://rdf.freebase.com/ns/m.0d3cnh>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/government.politician>	.
+<http://rdf.freebase.com/ns/m.0d3dvy>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/people.measured_person>	.
+<http://rdf.freebase.com/ns/m.0d3dvy>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.agent>	.
+<http://rdf.freebase.com/ns/m.0d3dvy>	<http://rdf.freebase.com/ns/type.object.name>	"Dale Saunders"@en	.
+<http://rdf.freebase.com/ns/m.0d3dvy>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/soccer.football_player>	.
+<http://rdf.freebase.com/ns/m.0d3dvy>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.animate>	.
+<http://rdf.freebase.com/ns/m.0d3dvy>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.physically_instantiable>	.
+<http://rdf.freebase.com/ns/m.0d3dvy>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/people.person>	.
+<http://rdf.freebase.com/ns/m.0d3dvy>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>	.
+<http://rdf.freebase.com/ns/m.0d3dvy>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/sports.pro_athlete>	.
+<http://rdf.freebase.com/ns/m.0d3f4g>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.document>	.
+<http://rdf.freebase.com/ns/m.0d3g9m>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/people.person>	.
+<http://rdf.freebase.com/ns/m.0d3g9m>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.physically_instantiable>	.
+<http://rdf.freebase.com/ns/m.0d3g9m>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.animate>	.
+<http://rdf.freebase.com/ns/m.0d3g9m>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.agent>	.
+<http://rdf.freebase.com/ns/m.0d3g9m>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/people.deceased_person>	.
+<http://rdf.freebase.com/ns/m.0d3g9m>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/government.politician>	.
+<http://rdf.freebase.com/ns/m.0d3g9m>	<http://rdf.freebase.com/ns/type.object.name>	"Alexandre Mouton"@fr	.
+<http://rdf.freebase.com/ns/m.0d3g9m>	<http://rdf.freebase.com/ns/type.object.name>	"Alexandre Mouton"@en	.
+<http://rdf.freebase.com/ns/m.0d3g9m>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/government.u_s_congressperson>	.
+<http://rdf.freebase.com/ns/m.0d3g9m>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>	.
+<http://rdf.freebase.com/ns/m.0d3hs5>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>	.
+<http://rdf.freebase.com/ns/m.0d3hs5>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/user.robert.data_nursery.aircraft_engine>	.
+<http://rdf.freebase.com/ns/m.0d3hs5>	<http://rdf.freebase.com/ns/type.object.name>	"Jabiru 3300"@en	.
+<http://rdf.freebase.com/ns/m.0d3hyfp>	<http://rdf.freebase.com/ns/common.topic.alias>	"JC"@en	.
+<http://rdf.freebase.com/ns/m.0d3hyfp>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.physically_instantiable>	.
+<http://rdf.freebase.com/ns/m.0d3hyfp>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.agent>	.
+<http://rdf.freebase.com/ns/m.0d3hyfp>	<http://rdf.freebase.com/ns/type.object.name>	"Jodi Collins"@en	.
+<http://rdf.freebase.com/ns/m.0d3hyfp>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/people.person>	.
+<http://rdf.freebase.com/ns/m.0d3hyfp>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/film.film_casting_director>	.
+<http://rdf.freebase.com/ns/m.0d3hyfp>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.animate>	.
+<http://rdf.freebase.com/ns/m.0d3hyfp>	<http://rdf.freebase.com/ns/common.topic.alias>	"Jodi Levy"@en	.
+<http://rdf.freebase.com/ns/m.0d3hyfp>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>	.
+<http://rdf.freebase.com/ns/m.0d3j73>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.wikipedia_infobox.video_game>	.
+<http://rdf.freebase.com/ns/m.0d3j73>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/cvg.computer_videogame>	.
+<http://rdf.freebase.com/ns/m.0d3j73>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>	.
+<http://rdf.freebase.com/ns/m.0d3j73>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>	.
+<http://rdf.freebase.com/ns/m.0d3j73>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.inanimate>	.
+<http://rdf.freebase.com/ns/m.0d3j73>	<http://rdf.freebase.com/ns/type.object.name>	"Blade"@en	.
+<http://rdf.freebase.com/ns/m.0d3j73>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>	.
+<http://rdf.freebase.com/ns/m.0d3kt6>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.agent>	.
+<http://rdf.freebase.com/ns/m.0d3kt6>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.popstra.restaurant>	.
+<http://rdf.freebase.com/ns/m.0d3kt6>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.popstra.topic>	.
+<http://rdf.freebase.com/ns/m.0d3kt6>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/business.employer>	.
+<http://rdf.freebase.com/ns/m.0d3kt6>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.inanimate>	.
+<http://rdf.freebase.com/ns/m.0d3kt6>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>	.
+<http://rdf.freebase.com/ns/m.0d3kt6>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.popstra.sww_base>	.
+<http://rdf.freebase.com/ns/m.0d3kt6>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/business.business_operation>	.
+<http://rdf.freebase.com/ns/m.0d3kt6>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>	.
+<http://rdf.freebase.com/ns/m.0d3kt6>	<http://rdf.freebase.com/ns/type.object.name>	"Auntie Anne's"@en	.
+<http://rdf.freebase.com/ns/m.0d3kt6>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/organization.organization>	.
+<http://rdf.freebase.com/ns/m.0d3kt6>	<http://rdf.freebase.com/ns/type.object.name>	"Auntie Anne's"@fr	.
+<http://rdf.freebase.com/ns/m.0d3kt6>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/business.business_location>	.
+<http://rdf.freebase.com/ns/m.0d3kt6>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/dining.restaurant>	.
+<http://rdf.freebase.com/ns/m.0d3kws_>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/location.geocode>	.
+<http://rdf.freebase.com/ns/m.0d3ly1j>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/location.geocode>	.
+<http://rdf.freebase.com/ns/m.0d3m18t>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/location.geocode>	.
+<http://rdf.freebase.com/ns/m.0d3nblv>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/location.geocode>	.
+<http://rdf.freebase.com/ns/m.0d3nc_>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.document>	.
+<http://rdf.freebase.com/ns/m.0d3q9m>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>	.
+<http://rdf.freebase.com/ns/m.0d3q9m>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/book.written_work>	.
+<http://rdf.freebase.com/ns/m.0d3q9m>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.inanimate>	.
+<http://rdf.freebase.com/ns/m.0d3q9m>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>	.
+<http://rdf.freebase.com/ns/m.0d3q9m>	<http://rdf.freebase.com/ns/type.object.name>	"Run Like an Antelope"@en	.
+<http://rdf.freebase.com/ns/m.0d3q9m>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/book.book>	.
+<http://rdf.freebase.com/ns/m.0d3q9m>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.abstract>	.
+<http://rdf.freebase.com/ns/m.0d3qtn>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>	.
+<http://rdf.freebase.com/ns/m.0d3qtn>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/people.person>	.
+<http://rdf.freebase.com/ns/m.0d3qtn>	<http://rdf.freebase.com/ns/type.object.name>	"Shaoul Avigour"@fr	.
+<http://rdf.freebase.com/ns/m.0d3qtn>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/people.deceased_person>	.
+<http://rdf.freebase.com/ns/m.0d3qtn>	<http://rdf.freebase.com/ns/type.object.name>	"Shaul Avigur"@en	.
+<http://rdf.freebase.com/ns/m.0d3qtn>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.animate>	.
+<http://rdf.freebase.com/ns/m.0d3qtn>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.agent>	.
+<http://rdf.freebase.com/ns/m.0d3qtn>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.physically_instantiable>	.
+<http://rdf.freebase.com/ns/m.0d3r5c>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.inanimate>	.
+<http://rdf.freebase.com/ns/m.0d3r5c>	<http://rdf.freebase.com/ns/type.object.name>	"Route 265"@fr	.
+<http://rdf.freebase.com/ns/m.0d3r5c>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/location.location>	.
+<http://rdf.freebase.com/ns/m.0d3r5c>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>	.
+<http://rdf.freebase.com/ns/m.0d3r5c>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>	.
+<http://rdf.freebase.com/ns/m.0d3r5c>	<http://rdf.freebase.com/ns/type.object.name>	"Quebec Route 265"@en	.
+<http://rdf.freebase.com/ns/m.0d3r5c>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/transportation.road>	.
+<http://rdf.freebase.com/ns/m.0d3r9p>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.document>	.
+<http://rdf.freebase.com/ns/m.0d3rgw>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.document>	.
+<http://rdf.freebase.com/ns/m.0d3str8>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/freebase.query>	.
+<http://rdf.freebase.com/ns/m.0d3str8>	<http://rdf.freebase.com/ns/type.object.name>	"James Tiptree Jr. Award Winners"@en	.
+<http://rdf.freebase.com/ns/m.0d3str8>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>	.
+<http://rdf.freebase.com/ns/m.0d3str8>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.document>	.
+<http://rdf.freebase.com/ns/m.0d3t_8>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>	.
+<http://rdf.freebase.com/ns/m.0d3t_8>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.physically_instantiable>	.
+<http://rdf.freebase.com/ns/m.0d3t_8>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.agent>	.
+<http://rdf.freebase.com/ns/m.0d3t_8>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/people.deceased_person>	.
+<http://rdf.freebase.com/ns/m.0d3t_8>	<http://rdf.freebase.com/ns/type.object.name>	"Matthew Kilpatrick"@en	.
+<http://rdf.freebase.com/ns/m.0d3t_8>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.animate>	.
+<http://rdf.freebase.com/ns/m.0d3t_8>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/people.person>	.
+<http://rdf.freebase.com/ns/m.0d3x97f>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.usergroup>	.
+<http://rdf.freebase.com/ns/m.0d3x97f>	<http://rdf.freebase.com/ns/type.object.name>	"Owners of papadavo's default types"@en	.
+<http://rdf.freebase.com/ns/m.0d3y47>	<http://rdf.freebase.com/ns/type.object.name>	"Tim Walker"@en	.
+<http://rdf.freebase.com/ns/m.0d3y47>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>	.
+<http://rdf.freebase.com/ns/m.0d3y47>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.animate>	.
+<http://rdf.freebase.com/ns/m.0d3y47>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.agent>	.
+<http://rdf.freebase.com/ns/m.0d3y47>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/people.deceased_person>	.
+<http://rdf.freebase.com/ns/m.0d3y47>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.physically_instantiable>	.
+<http://rdf.freebase.com/ns/m.0d3y47>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/people.person>	.
+<http://rdf.freebase.com/ns/m.0d3y47>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/government.politician>	.
+<http://rdf.freebase.com/ns/m.0d40lw>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.document>	.
+<http://rdf.freebase.com/ns/m.0d412b>	<http://rdf.freebase.com/ns/type.object.name>	"Championnat de golf amateur des États-Unis femmes"@fr	.

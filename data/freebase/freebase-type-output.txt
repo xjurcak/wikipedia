@@ -1,0 +1,166 @@
+ns/award.award_winner	"Víťaz ceny"@sk
+ns/award.award_winner	"Lauréat"@fr
+ns/award.award_winner	"Award Winner"@en
+ns/award.long_list_nominee	"Long-list nominee"@en
+ns/base.aareas.schema.au.local_government_area	"Australian local government area"@en
+ns/base.aareas.schema.dj.region	"Djibouti region"@en
+ns/base.aareas.schema.ht.commune.administrative_parent	"Arrondissement"@en
+ns/base.aareas.schema.it.commune	"Italian commune"@en
+ns/base.aareas.schema.pg.province	"Papua New Guinean province"@en
+ns/base.banking.investment_scheme	"Investment scheme"@en
+ns/base.bioventurist.science_or_technology_company	"Science or Technology Company"@en
+ns/base.birdconservation.topic	"Topic"@en
+ns/base.birdinfo.parasitism	"Parasitism"@en
+ns/base.bizmo.internal_influencer	"Internal Influencer"@en
+ns/base.britishpubs.pub_owner_tenure	"Pub owner tenure"@en
+ns/base.burningkumquat.harvest	"Harvest"@en
+ns/base.collectives.collective_member	"Collective Member"@en
+ns/base.collectives.collective_member	"Membre de collectif"@fr
+ns/base.collectives.collective_member	"Člen spolku"@sk
+ns/base.cricketvenues.topic	"Topic"@en
+ns/base.crime.police_officer	"Law enforcement officer"@en
+ns/base.crime.police_officer	"Dohliadač na verejný poriadok"@sk
+ns/base.crime.police_officer	"Agent de la force publique"@fr
+ns/base.crmbase.developer	"developer"@en
+ns/base.dentalnet.topic	"Topic"@en
+ns/base.endofallthings.apocalyptic_proponent	"Apocalyptic proponent"@en
+ns/base.engineeringdraft.manufacturing_plant_production	"Manufacturing plant production"@en
+ns/base.famousuniversity.topic	"Topic"@en
+ns/base.fight.labour_dispute_cause	"Labour dispute cause"@en
+ns/base.fight.labour_dispute_cause	"Cause de litige professionnel"@fr
+ns/base.fight.labour_dispute_cause	"Príčina pracovného sporu"@sk
+ns/base.financialmeltdown.topic	"Topic"@en
+ns/base.food_menu.regional_cuisine	"Regional Cuisine"@en
+ns/base.formula1.formula_1_championship_standing.driver	"Driver"@en
+ns/base.gamecollection.owner.consoles	"Consoles"@en
+ns/base.graphapi.global_properties.music_active_start	"active_start"@en
+ns/base.greece.gr_periphery	"Greek periphery"@en
+ns/base.home12259071564150.sdf	"sdf"@en
+ns/base.horsefacts.tack	"jazdecká výstroj"@sk
+ns/base.horsefacts.tack	"Horse tack"@en
+ns/base.horsefacts.tack	"harnachement"@fr
+ns/base.horticulture.cultivar_group	"Cultivar Group"@en
+ns/base.hotelbooking.stay.end	"end"@en
+ns/base.iceandfire.notable_weapon.descendant_weapon	"Descendant Weapon"@en
+ns/base.indonesia.democracy	"democracy"@en
+ns/base.infection.biosafety_facility.location	"Location"@en
+ns/base.ivoire.topic	"Topic"@en
+ns/base.jewlib.topic	"Topic"@en
+ns/base.kinometric.genre	"Genre"@en
+ns/base.learningresource.educational_audio	"educational audio"@en
+ns/base.legislation.bill.introduced_by	"Introduced by"@en
+ns/base.lewisandclark.indian_tribes	"Indian Tribes that Lewis & Clark Encountered"@en
+ns/base.libreas.topic	"Topic"@en
+ns/base.lightweight.wine_grape	"Wine grape"@en
+ns/base.litcentral.breeding_taxon.breeding_location_s	"Breeding location(s)"@en
+ns/base.litcentral.source_feature_taxa.location	"Location"@en
+ns/base.mathematics1.mathematical_concept	"Mathematical concept"@en
+ns/base.mediaasset.provider.parent	"Parent"@en
+ns/base.militaryinfiction.military_command_in_fiction.unit	"Unit"@en
+ns/base.mladraft.archive	"Archive"@en
+ns/base.music_references.oldies	"Oldies"@en
+ns/base.musiteca.video.performer	"Performer"@en
+ns/base.myevents.project_meeting	"Réunion de projet"@fr
+ns/base.myevents.project_meeting	"Project Meeting"@en
+ns/base.myevents.project_meeting	"Projektová schôdzka"@sk
+ns/base.myschool.course_requirement	"course_requirement"@en
+ns/base.nationalbridgeinventory.predicted_traffic_rate	"Predicted Traffic Rate"@en
+ns/base.peleton.cycling_team_professional.participated_as_a_wildcard_invitee_in_this_race_event	"Participated as a wildcard invitee in this race event"@en
+ns/base.pests.pest	"Pest"@en
+ns/base.playgirlmanoftheyear.topic	"Topic"@en
+ns/base.products.product_type	"product_type"@en
+ns/base.researchlocations.research_topic	"Thème de recherche"@fr
+ns/base.researchlocations.research_topic	"Research topic"@en
+ns/base.researchlocations.research_topic	"Téma výskumu"@sk
+ns/base.sa3base.sa3_textual.description_for_element_catalog	"description for element catalog"@en
+ns/base.sailboat.sailboat	"sailboat"@en
+ns/base.satellites.topic	"Topic"@en
+ns/base.savewater.topic	"Topic"@en
+ns/base.schemastaging.application_version.release_date	"Release date"@en
+ns/base.schemastaging.gender_group	"Gender group"@en
+ns/base.schemastaging.star_system_body_extra.mass	"Mass"@en
+ns/base.seafood.seafood_guide_publisher	"Seafood guide publisher"@en
+ns/base.services.bank_services.credit_unions	"Credit unions"@en
+ns/base.services.medical_laboratory.testing_available_here	"Testing available here"@en
+ns/base.services.movie_theater.screens	"Screens"@en
+ns/base.services.music_shop.instruments_serviced>	ns/type.object.type>	ns/type.property>
+ns/base.services.music_shop.instruments_serviced	"Instruments serviced"@en
+ns/base.services.per_time	"per Time"@en
+ns/base.services.recycling_service.types_of_recycling	"Types of recycling"@en
+ns/base.services.storage_facility	"Storage facility"@en
+ns/base.services.tanning_salon.tanning_services	"Tanning services"@en
+ns/base.spabase.spa_operator	"Spa operator"@en
+ns/base.sportsrecords.sports_record_series	"Sports record series"@en
+ns/base.stage_performance.stage_production.production_venue_relationship	"Production venue relationship"@en
+ns/base.summarystatistics.cross_reference_topic	"Cross reference topic"@en
+ns/base.svocab.movie.runtime	"runtime"@en
+ns/base.svocab.tvseries.startdate	"startDate"@en
+ns/base.sxswfilm.topic	"Topic"@en
+ns/base.tallships.film_with_tall_ships	"Film with tall ships"@en
+ns/base.tang1.wuzhenyu.gender	"gender"@en
+ns/base.testcards.test_card.country_used_in	"Country used in"@en
+ns/base.textiles.textile.textile_designer	"Textile Designer"@en
+ns/base.theosbornboysaregrowing.osborn_family_member	"Membre de la famille Osborn"@fr
+ns/base.theosbornboysaregrowing.osborn_family_member	"Osborn family member"@en
+ns/base.theosbornboysaregrowing.osborn_family_member	"Člen rodiny Osbornovcov"@sk
+ns/base.thingy.thingy.written_by	"Written by"@en
+ns/base.thoroughbredracing.thoroughbred_racehorse.foaled	"Foaled"@en
+ns/base.titaniumminingbase.topic	"Topic"@en
+ns/base.torgbase.character_s_reality.reality	"reality"@en
+ns/base.torgbase.reality.spirit_axiom	"Spirit axiom"@en
+ns/base.tournaments.tournament.rounds	"Rounds"@en
+ns/base.tournaments.tournament_group.matches_or_rubbers_or_legs	"Matches (or rubbers or legs)"@en
+ns/base.trixtypes.stat.stat_property	"Stat property"@en
+ns/base.truereligion.collection_season	"Collection Season"@en
+ns/base.uamember.lp	"lp"@en
+ns/base.ukpostcodes.uk_postcode.incode	"Incode"@en
+ns/base.usnationalparks.us_national_park.closest_airports	"Closest airports"@en
+ns/base.usstatesymbols.state_symbols.state_color	"State color"@en
+ns/base.usstatesymbols.state_symbols.state_vegetable	"State vegetable"@en
+ns/base.vancouver.city_street.quadrant	"Quadrant"@en
+ns/base.virginiabroadband.stimulus_request.first_responders	"First Responders"@en
+ns/base.visleg.collaboration.subject_topics	"Subject topics"@en
+ns/base.visleg.collaborator.topics_of_interest	"Topics of interest"@en
+ns/base.vwmtbase.vw_data_representation_2_view.to_view	"to view"@en
+ns/base.webvideo.internet_video_director.videos_directed	"Videos Directed"@en
+ns/base.webvideo.internet_video_episode	"Internet Video Episode"@en
+ns/base.webvideo.internet_video_series.language	"Language"@en
+ns/base.wikipedia.infobox_mineral.formula	"Formula"@en
+ns/base.wikipedia_infobox.video_game.released	"Released"@en
+ns/base.wordnet.word_sense.pertains	"Pertains"@en
+ns/base.wrestling.topic	"Topic"@en
+ns/base.writing.grapheme	"Grapheme"@en
+ns/base.x2009hackdayprojects.hack_day_project.team_member	"Team Member"@en
+ns/base.x911muralsnyc.topic	"Topic"@en
+ns/baseball.baseball_team_stats.team	"Team"@en
+ns/biology.animal_breed.examples	"Examples"@en
+ns/biology.organism_classification.child_classifications	"Child Classifications"@en
+ns/boats.warship_service_period.start_date	"Start Date"@en
+ns/book.interviewer	"Interviewer"@fr
+ns/book.interviewer	"Interviewer"@en
+ns/book.interviewer	"Vedúci interview"@sk
+ns/book.periodical_editor	"Periodical editor"@en
+ns/book.periodical_editor	"Editor periodika"@sk
+ns/book.periodical_editor	"Rédacteur de presse périodique"@fr
+ns/broadcast.radio_affiliation_duration.to_date	"To"@en
+ns/broadcast.tv_station	"Station de télévision"@fr
+ns/broadcast.tv_station	"TV Station"@en
+ns/broadcast.tv_station	"Televízna stanica"@sk
+ns/business.product_category.products	"Products"@en
+ns/business.product_line.category	"Category"@en
+ns/computer.os_compatibility.computer	"Computer"@en
+ns/dataworld.mass_data_operation.started_operation	"Started Operation"@en
+ns/engineering.battery.size	"Size"@en
+ns/event.disaster	"Katastrofa"@sk
+ns/event.disaster	"Catastrophe"@fr
+ns/event.disaster	"Disaster"@en
+ns/film.film_song_relationship.film	"Film"@en
+ns/food.dish.recipes	"Recipes"@en
+ns/food.licensee_tenure.from	"From"@en
+ns/freebase.apps.content_template.width	"Width"@en
+ns/freebase.apps.hosts.com.appspot.acre.glamourapartments.item_feature	"Item feature"@en
+ns/freebase.apps.hosts.com.freebaseapps.glamourapartments.item.price	"Price"@en
+ns/freebase.apps.hosts.z.appspot.acre.topics.person2.cause_of_death	"Cause of death"@en
+ns/freebase.software_product_milestone.tickets	"Tickets"@en
+ns/freebase.user_activity.topics_live	"Topics live"@en
+ns/freebase.user_profile.favorite_domains	"Favorite Domains"@en

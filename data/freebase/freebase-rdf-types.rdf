@@ -1,0 +1,372 @@
+<http://rdf.freebase.com/ns/american_football.football_player.footballdb_id>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/american_football.football_player.footballdb_id>	<http://rdf.freebase.com/ns/type.object.name>	"footballdb ID"@en	.
+<http://rdf.freebase.com/ns/astronomy.astronomical_observatory.discoveries>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/astronomy.astronomical_observatory.discoveries>	<http://rdf.freebase.com/ns/type.object.name>	"Discoveries"@en	.
+<http://rdf.freebase.com/ns/automotive.body_style.fuel_tank_capacity>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/automotive.body_style.fuel_tank_capacity>	<http://rdf.freebase.com/ns/type.object.name>	"Fuel Tank Capacity"@en	.
+<http://rdf.freebase.com/ns/automotive.engine.engine_type>	<http://rdf.freebase.com/ns/type.object.name>	"Engine Type"@en	.
+<http://rdf.freebase.com/ns/automotive.engine.engine_type>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/automotive.trim_level.max_passengers>	<http://rdf.freebase.com/ns/type.object.name>	"Maximum Number of Passengers"@en	.
+<http://rdf.freebase.com/ns/automotive.trim_level.max_passengers>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/aviation.aircraft.first_flight>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/aviation.aircraft.first_flight>	<http://rdf.freebase.com/ns/type.object.name>	"First flight"@en	.
+<http://rdf.freebase.com/ns/award.award_winner>	<http://rdf.freebase.com/ns/type.object.name>	"Víťaz ceny"@sk	.
+<http://rdf.freebase.com/ns/award.award_winner>	<http://rdf.freebase.com/ns/type.object.name>	"Lauréat"@fr	.
+<http://rdf.freebase.com/ns/award.award_winner>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/award.award_winner>	<http://rdf.freebase.com/ns/type.object.name>	"Award Winner"@en	.
+<http://rdf.freebase.com/ns/award.long_list_nominee>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/award.long_list_nominee>	<http://rdf.freebase.com/ns/type.object.name>	"Long-list nominee"@en	.
+<http://rdf.freebase.com/ns/base.aareas.schema.am.province.capital>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.aareas.schema.am.province.capital>	<http://rdf.freebase.com/ns/type.object.name>	"Capital"@en	.
+<http://rdf.freebase.com/ns/base.aareas.schema.au.local_government_area>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.aareas.schema.au.local_government_area>	<http://rdf.freebase.com/ns/type.object.name>	"Australian local government area"@en	.
+<http://rdf.freebase.com/ns/base.aareas.schema.cz.district.administrative_children>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.aareas.schema.cz.district.administrative_children>	<http://rdf.freebase.com/ns/type.object.name>	"Citytowns and Municipalities"@en	.
+<http://rdf.freebase.com/ns/base.aareas.schema.dj.region>	<http://rdf.freebase.com/ns/type.object.name>	"Djibouti region"@en	.
+<http://rdf.freebase.com/ns/base.aareas.schema.dj.region>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.aareas.schema.ht.commune.administrative_parent>	<http://rdf.freebase.com/ns/type.object.name>	"Arrondissement"@en	.
+<http://rdf.freebase.com/ns/base.aareas.schema.ht.commune.administrative_parent>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.aareas.schema.it.commune>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.aareas.schema.it.commune>	<http://rdf.freebase.com/ns/type.object.name>	"Italian commune"@en	.
+<http://rdf.freebase.com/ns/base.aareas.schema.pf.subdivision.administrative_children>	<http://rdf.freebase.com/ns/type.object.name>	"Communes"@en	.
+<http://rdf.freebase.com/ns/base.aareas.schema.pf.subdivision.administrative_children>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.aareas.schema.pg.province>	<http://rdf.freebase.com/ns/type.object.name>	"Papua New Guinean province"@en	.
+<http://rdf.freebase.com/ns/base.aareas.schema.pg.province>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.aareas.schema.wf.kingdom.capital>	<http://rdf.freebase.com/ns/type.object.name>	"Capital"@en	.
+<http://rdf.freebase.com/ns/base.aareas.schema.wf.kingdom.capital>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.abcbirds.conservation_project.objective_s>	<http://rdf.freebase.com/ns/type.object.name>	"Objective(s)"@en	.
+<http://rdf.freebase.com/ns/base.abcbirds.conservation_project.objective_s>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.americancomedy.tv_show.spin_offs>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.americancomedy.tv_show.spin_offs>	<http://rdf.freebase.com/ns/type.object.name>	"Spin offs"@en	.
+<http://rdf.freebase.com/ns/base.aptamer.experiment.has_bibliographic_reference>	<http://rdf.freebase.com/ns/type.object.name>	"Bibliographic Reference"@en	.
+<http://rdf.freebase.com/ns/base.aptamer.experiment.has_bibliographic_reference>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.architecture2.structure2.architectural_style>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.architecture2.structure2.architectural_style>	<http://rdf.freebase.com/ns/type.object.name>	"Architectural style"@en	.
+<http://rdf.freebase.com/ns/base.armoryshow1913.exhibited_artist.exhibited_work>	<http://rdf.freebase.com/ns/type.object.name>	"Exhibited work(s)"@en	.
+<http://rdf.freebase.com/ns/base.armoryshow1913.exhibited_artist.exhibited_work>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.art_retailer.market_offer.status>	<http://rdf.freebase.com/ns/type.object.name>	"status"@en	.
+<http://rdf.freebase.com/ns/base.art_retailer.market_offer.status>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.banking.investment_scheme>	<http://rdf.freebase.com/ns/type.object.name>	"Investment scheme"@en	.
+<http://rdf.freebase.com/ns/base.banking.investment_scheme>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.banking.retail_bank.fdic_certificate>	<http://rdf.freebase.com/ns/type.object.name>	"FDIC Certificate #"@en	.
+<http://rdf.freebase.com/ns/base.banking.retail_bank.fdic_certificate>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.bioventurist.science_or_technology_company>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.bioventurist.science_or_technology_company>	<http://rdf.freebase.com/ns/type.object.name>	"Science or Technology Company"@en	.
+<http://rdf.freebase.com/ns/base.birdconservation.topic>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.birdconservation.topic>	<http://rdf.freebase.com/ns/type.object.name>	"Topic"@en	.
+<http://rdf.freebase.com/ns/base.birdinfo.parasitism>	<http://rdf.freebase.com/ns/type.object.name>	"Parasitism"@en	.
+<http://rdf.freebase.com/ns/base.birdinfo.parasitism>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.bizmo.internal_influencer>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.bizmo.internal_influencer>	<http://rdf.freebase.com/ns/type.object.name>	"Internal Influencer"@en	.
+<http://rdf.freebase.com/ns/base.bookpf.author.book_edition>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.bookpf.author.book_edition>	<http://rdf.freebase.com/ns/type.object.name>	"book edition"@en	.
+<http://rdf.freebase.com/ns/base.braziliangovt.brazilian_governmental_proposal.author>	<http://rdf.freebase.com/ns/type.object.name>	"Author"@en	.
+<http://rdf.freebase.com/ns/base.braziliangovt.brazilian_governmental_proposal.author>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.britishpubs.pub_owner_tenure>	<http://rdf.freebase.com/ns/type.object.name>	"Pub owner tenure"@en	.
+<http://rdf.freebase.com/ns/base.britishpubs.pub_owner_tenure>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.burningkumquat.harvest>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.burningkumquat.harvest>	<http://rdf.freebase.com/ns/type.object.name>	"Harvest"@en	.
+<http://rdf.freebase.com/ns/base.cadata.weapons.cost_1>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.cadata.weapons.cost_1>	<http://rdf.freebase.com/ns/type.object.name>	"cost 1 day"@en	.
+<http://rdf.freebase.com/ns/base.cars_refactor.exterior_color.rgb_value>	<http://rdf.freebase.com/ns/type.object.name>	"RGB Value"@en	.
+<http://rdf.freebase.com/ns/base.cars_refactor.exterior_color.rgb_value>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.cocktails.cocktail_garnish.cocktails_with_this_garnish>	<http://rdf.freebase.com/ns/type.object.name>	"Cocktails with this garnish"@en	.
+<http://rdf.freebase.com/ns/base.cocktails.cocktail_garnish.cocktails_with_this_garnish>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.coinsdaily.coin_type.timespan_minted>	<http://rdf.freebase.com/ns/type.object.name>	"timespan minted"@en	.
+<http://rdf.freebase.com/ns/base.coinsdaily.coin_type.timespan_minted>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.collectiblecards.trading_card_set.card_in_set>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.collectiblecards.trading_card_set.card_in_set>	<http://rdf.freebase.com/ns/type.object.name>	"Card in set"@en	.
+<http://rdf.freebase.com/ns/base.collectives.collective_member>	<http://rdf.freebase.com/ns/type.object.name>	"Collective Member"@en	.
+<http://rdf.freebase.com/ns/base.collectives.collective_member>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.collectives.collective_member>	<http://rdf.freebase.com/ns/type.object.name>	"Membre de collectif"@fr	.
+<http://rdf.freebase.com/ns/base.collectives.collective_member>	<http://rdf.freebase.com/ns/type.object.name>	"Člen spolku"@sk	.
+<http://rdf.freebase.com/ns/base.conservationaction.program_coordination.start>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.conservationaction.program_coordination.start>	<http://rdf.freebase.com/ns/type.object.name>	"Start"@en	.
+<http://rdf.freebase.com/ns/base.contractbridge.bridge_tournament_standings.year>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.contractbridge.bridge_tournament_standings.year>	<http://rdf.freebase.com/ns/type.object.name>	"Year"@en	.
+<http://rdf.freebase.com/ns/base.convictsydney.building.construction_began>	<http://rdf.freebase.com/ns/type.object.name>	"Construction began"@en	.
+<http://rdf.freebase.com/ns/base.convictsydney.building.construction_began>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.cricketvenues.topic>	<http://rdf.freebase.com/ns/type.object.name>	"Topic"@en	.
+<http://rdf.freebase.com/ns/base.cricketvenues.topic>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.crime.law_firm.number_of_lawyers>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.crime.law_firm.number_of_lawyers>	<http://rdf.freebase.com/ns/type.object.name>	"Number of lawyers"@en	.
+<http://rdf.freebase.com/ns/base.crime.lawyer.specialty>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.crime.lawyer.specialty>	<http://rdf.freebase.com/ns/type.object.name>	"Specialty"@en	.
+<http://rdf.freebase.com/ns/base.crime.police_officer>	<http://rdf.freebase.com/ns/type.object.name>	"Law enforcement officer"@en	.
+<http://rdf.freebase.com/ns/base.crime.police_officer>	<http://rdf.freebase.com/ns/type.object.name>	"Dohliadač na verejný poriadok"@sk	.
+<http://rdf.freebase.com/ns/base.crime.police_officer>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.crime.police_officer>	<http://rdf.freebase.com/ns/type.object.name>	"Agent de la force publique"@fr	.
+<http://rdf.freebase.com/ns/base.crmbase.developer>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.crmbase.developer>	<http://rdf.freebase.com/ns/type.object.name>	"developer"@en	.
+<http://rdf.freebase.com/ns/base.datedlocationtest.dated_location_test.merged_with>	<http://rdf.freebase.com/ns/type.object.name>	"Merged with"@en	.
+<http://rdf.freebase.com/ns/base.datedlocationtest.dated_location_test.merged_with>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.dentalnet.topic>	<http://rdf.freebase.com/ns/type.object.name>	"Topic"@en	.
+<http://rdf.freebase.com/ns/base.dentalnet.topic>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.dimenovels.dime_novel_issue.part_of_series>	<http://rdf.freebase.com/ns/type.object.name>	"Part of Series"@en	.
+<http://rdf.freebase.com/ns/base.dimenovels.dime_novel_issue.part_of_series>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.disaster2.automobile_accident.cause>	<http://rdf.freebase.com/ns/type.object.name>	"Cause"@en	.
+<http://rdf.freebase.com/ns/base.disaster2.automobile_accident.cause>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.electromagneticspectrum.service.service_description>	<http://rdf.freebase.com/ns/type.object.name>	"Service Description"@en	.
+<http://rdf.freebase.com/ns/base.electromagneticspectrum.service.service_description>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.endofallthings.apocalyptic_proponent>	<http://rdf.freebase.com/ns/type.object.name>	"Apocalyptic proponent"@en	.
+<http://rdf.freebase.com/ns/base.endofallthings.apocalyptic_proponent>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.engineeringdraft.manufacturing_plant_production>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.engineeringdraft.manufacturing_plant_production>	<http://rdf.freebase.com/ns/type.object.name>	"Manufacturing plant production"@en	.
+<http://rdf.freebase.com/ns/base.famousuniversity.topic>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.famousuniversity.topic>	<http://rdf.freebase.com/ns/type.object.name>	"Topic"@en	.
+<http://rdf.freebase.com/ns/base.fight.labour_dispute_cause>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.fight.labour_dispute_cause>	<http://rdf.freebase.com/ns/type.object.name>	"Labour dispute cause"@en	.
+<http://rdf.freebase.com/ns/base.fight.labour_dispute_cause>	<http://rdf.freebase.com/ns/type.object.name>	"Cause de litige professionnel"@fr	.
+<http://rdf.freebase.com/ns/base.fight.labour_dispute_cause>	<http://rdf.freebase.com/ns/type.object.name>	"Príčina pracovného sporu"@sk	.
+<http://rdf.freebase.com/ns/base.financialmeltdown.topic>	<http://rdf.freebase.com/ns/type.object.name>	"Topic"@en	.
+<http://rdf.freebase.com/ns/base.financialmeltdown.topic>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.food_menu.regional_cuisine>	<http://rdf.freebase.com/ns/type.object.name>	"Regional Cuisine"@en	.
+<http://rdf.freebase.com/ns/base.food_menu.regional_cuisine>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.formula1.formula_1_championship_standing.driver>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.formula1.formula_1_championship_standing.driver>	<http://rdf.freebase.com/ns/type.object.name>	"Driver"@en	.
+<http://rdf.freebase.com/ns/base.gamecollection.owner.consoles>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.gamecollection.owner.consoles>	<http://rdf.freebase.com/ns/type.object.name>	"Consoles"@en	.
+<http://rdf.freebase.com/ns/base.graphapi.global_properties.music_active_start>	<http://rdf.freebase.com/ns/type.object.name>	"active_start"@en	.
+<http://rdf.freebase.com/ns/base.graphapi.global_properties.music_active_start>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.greece.gr_periphery>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.greece.gr_periphery>	<http://rdf.freebase.com/ns/type.object.name>	"Greek periphery"@en	.
+<http://rdf.freebase.com/ns/base.home12259071564150.sdf>	<http://rdf.freebase.com/ns/type.object.name>	"sdf"@en	.
+<http://rdf.freebase.com/ns/base.home12259071564150.sdf>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.horsefacts.tack>	<http://rdf.freebase.com/ns/type.object.name>	"jazdecká výstroj"@sk	.
+<http://rdf.freebase.com/ns/base.horsefacts.tack>	<http://rdf.freebase.com/ns/type.object.name>	"Horse tack"@en	.
+<http://rdf.freebase.com/ns/base.horsefacts.tack>	<http://rdf.freebase.com/ns/type.object.name>	"harnachement"@fr	.
+<http://rdf.freebase.com/ns/base.horsefacts.tack>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.horticulture.cultivar_group>	<http://rdf.freebase.com/ns/type.object.name>	"Cultivar Group"@en	.
+<http://rdf.freebase.com/ns/base.horticulture.cultivar_group>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.hotelbooking.stay.end>	<http://rdf.freebase.com/ns/type.object.name>	"end"@en	.
+<http://rdf.freebase.com/ns/base.hotelbooking.stay.end>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.iceandfire.notable_weapon.descendant_weapon>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.iceandfire.notable_weapon.descendant_weapon>	<http://rdf.freebase.com/ns/type.object.name>	"Descendant Weapon"@en	.
+<http://rdf.freebase.com/ns/base.indonesia.democracy>	<http://rdf.freebase.com/ns/type.object.name>	"democracy"@en	.
+<http://rdf.freebase.com/ns/base.indonesia.democracy>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.infection.biosafety_facility.location>	<http://rdf.freebase.com/ns/type.object.name>	"Location"@en	.
+<http://rdf.freebase.com/ns/base.infection.biosafety_facility.location>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.ivoire.topic>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.ivoire.topic>	<http://rdf.freebase.com/ns/type.object.name>	"Topic"@en	.
+<http://rdf.freebase.com/ns/base.jewlib.topic>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.jewlib.topic>	<http://rdf.freebase.com/ns/type.object.name>	"Topic"@en	.
+<http://rdf.freebase.com/ns/base.kinometric.genre>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.kinometric.genre>	<http://rdf.freebase.com/ns/type.object.name>	"Genre"@en	.
+<http://rdf.freebase.com/ns/base.learningresource.educational_audio>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.learningresource.educational_audio>	<http://rdf.freebase.com/ns/type.object.name>	"educational audio"@en	.
+<http://rdf.freebase.com/ns/base.legislation.bill.introduced_by>	<http://rdf.freebase.com/ns/type.object.name>	"Introduced by"@en	.
+<http://rdf.freebase.com/ns/base.legislation.bill.introduced_by>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.lewisandclark.indian_tribes>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.lewisandclark.indian_tribes>	<http://rdf.freebase.com/ns/type.object.name>	"Indian Tribes that Lewis & Clark Encountered"@en	.
+<http://rdf.freebase.com/ns/base.libreas.topic>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.libreas.topic>	<http://rdf.freebase.com/ns/type.object.name>	"Topic"@en	.
+<http://rdf.freebase.com/ns/base.lightweight.wine_grape>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.lightweight.wine_grape>	<http://rdf.freebase.com/ns/type.object.name>	"Wine grape"@en	.
+<http://rdf.freebase.com/ns/base.litcentral.breeding_taxon.breeding_location_s>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.litcentral.breeding_taxon.breeding_location_s>	<http://rdf.freebase.com/ns/type.object.name>	"Breeding location(s)"@en	.
+<http://rdf.freebase.com/ns/base.litcentral.source_feature_taxa.location>	<http://rdf.freebase.com/ns/type.object.name>	"Location"@en	.
+<http://rdf.freebase.com/ns/base.litcentral.source_feature_taxa.location>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.mathematics1.mathematical_concept>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.mathematics1.mathematical_concept>	<http://rdf.freebase.com/ns/type.object.name>	"Mathematical concept"@en	.
+<http://rdf.freebase.com/ns/base.mediaasset.provider.parent>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.mediaasset.provider.parent>	<http://rdf.freebase.com/ns/type.object.name>	"Parent"@en	.
+<http://rdf.freebase.com/ns/base.militaryinfiction.military_command_in_fiction.unit>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.militaryinfiction.military_command_in_fiction.unit>	<http://rdf.freebase.com/ns/type.object.name>	"Unit"@en	.
+<http://rdf.freebase.com/ns/base.mladraft.archive>	<http://rdf.freebase.com/ns/type.object.name>	"Archive"@en	.
+<http://rdf.freebase.com/ns/base.mladraft.archive>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.music_references.oldies>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.music_references.oldies>	<http://rdf.freebase.com/ns/type.object.name>	"Oldies"@en	.
+<http://rdf.freebase.com/ns/base.musiteca.video.performer>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.musiteca.video.performer>	<http://rdf.freebase.com/ns/type.object.name>	"Performer"@en	.
+<http://rdf.freebase.com/ns/base.myevents.project_meeting>	<http://rdf.freebase.com/ns/type.object.name>	"Réunion de projet"@fr	.
+<http://rdf.freebase.com/ns/base.myevents.project_meeting>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.myevents.project_meeting>	<http://rdf.freebase.com/ns/type.object.name>	"Project Meeting"@en	.
+<http://rdf.freebase.com/ns/base.myevents.project_meeting>	<http://rdf.freebase.com/ns/type.object.name>	"Projektová schôdzka"@sk	.
+<http://rdf.freebase.com/ns/base.myschool.course_requirement>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.myschool.course_requirement>	<http://rdf.freebase.com/ns/type.object.name>	"course_requirement"@en	.
+<http://rdf.freebase.com/ns/base.nationalbridgeinventory.predicted_traffic_rate>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.nationalbridgeinventory.predicted_traffic_rate>	<http://rdf.freebase.com/ns/type.object.name>	"Predicted Traffic Rate"@en	.
+<http://rdf.freebase.com/ns/base.peleton.cycling_team_professional.participated_as_a_wildcard_invitee_in_this_race_event>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.peleton.cycling_team_professional.participated_as_a_wildcard_invitee_in_this_race_event>	<http://rdf.freebase.com/ns/type.object.name>	"Participated as a wildcard invitee in this race event"@en	.
+<http://rdf.freebase.com/ns/base.pests.pest>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.pests.pest>	<http://rdf.freebase.com/ns/type.object.name>	"Pest"@en	.
+<http://rdf.freebase.com/ns/base.playgirlmanoftheyear.topic>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.playgirlmanoftheyear.topic>	<http://rdf.freebase.com/ns/type.object.name>	"Topic"@en	.
+<http://rdf.freebase.com/ns/base.products.product_type>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.products.product_type>	<http://rdf.freebase.com/ns/type.object.name>	"product_type"@en	.
+<http://rdf.freebase.com/ns/base.researchlocations.research_topic>	<http://rdf.freebase.com/ns/type.object.name>	"Thème de recherche"@fr	.
+<http://rdf.freebase.com/ns/base.researchlocations.research_topic>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.researchlocations.research_topic>	<http://rdf.freebase.com/ns/type.object.name>	"Research topic"@en	.
+<http://rdf.freebase.com/ns/base.researchlocations.research_topic>	<http://rdf.freebase.com/ns/type.object.name>	"Téma výskumu"@sk	.
+<http://rdf.freebase.com/ns/base.sa3base.sa3_textual.description_for_element_catalog>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.sa3base.sa3_textual.description_for_element_catalog>	<http://rdf.freebase.com/ns/type.object.name>	"description for element catalog"@en	.
+<http://rdf.freebase.com/ns/base.sailboat.sailboat>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.sailboat.sailboat>	<http://rdf.freebase.com/ns/type.object.name>	"sailboat"@en	.
+<http://rdf.freebase.com/ns/base.satellites.topic>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.satellites.topic>	<http://rdf.freebase.com/ns/type.object.name>	"Topic"@en	.
+<http://rdf.freebase.com/ns/base.savewater.topic>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.savewater.topic>	<http://rdf.freebase.com/ns/type.object.name>	"Topic"@en	.
+<http://rdf.freebase.com/ns/base.schemastaging.application_version.release_date>	<http://rdf.freebase.com/ns/type.object.name>	"Release date"@en	.
+<http://rdf.freebase.com/ns/base.schemastaging.application_version.release_date>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.schemastaging.gender_group>	<http://rdf.freebase.com/ns/type.object.name>	"Gender group"@en	.
+<http://rdf.freebase.com/ns/base.schemastaging.gender_group>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.schemastaging.star_system_body_extra.mass>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.schemastaging.star_system_body_extra.mass>	<http://rdf.freebase.com/ns/type.object.name>	"Mass"@en	.
+<http://rdf.freebase.com/ns/base.seafood.seafood_guide_publisher>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.seafood.seafood_guide_publisher>	<http://rdf.freebase.com/ns/type.object.name>	"Seafood guide publisher"@en	.
+<http://rdf.freebase.com/ns/base.services.bank_services.credit_unions>	<http://rdf.freebase.com/ns/type.object.name>	"Credit unions"@en	.
+<http://rdf.freebase.com/ns/base.services.bank_services.credit_unions>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.services.medical_laboratory.testing_available_here>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.services.medical_laboratory.testing_available_here>	<http://rdf.freebase.com/ns/type.object.name>	"Testing available here"@en	.
+<http://rdf.freebase.com/ns/base.services.movie_theater.screens>	<http://rdf.freebase.com/ns/type.object.name>	"Screens"@en	.
+<http://rdf.freebase.com/ns/base.services.movie_theater.screens>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.services.music_shop.instruments_serviced>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.services.music_shop.instruments_serviced>	<http://rdf.freebase.com/ns/type.object.name>	"Instruments serviced"@en	.
+<http://rdf.freebase.com/ns/base.services.per_time>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.services.per_time>	<http://rdf.freebase.com/ns/type.object.name>	"per Time"@en	.
+<http://rdf.freebase.com/ns/base.services.recycling_service.types_of_recycling>	<http://rdf.freebase.com/ns/type.object.name>	"Types of recycling"@en	.
+<http://rdf.freebase.com/ns/base.services.recycling_service.types_of_recycling>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.services.storage_facility>	<http://rdf.freebase.com/ns/type.object.name>	"Storage facility"@en	.
+<http://rdf.freebase.com/ns/base.services.storage_facility>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.services.tanning_salon.tanning_services>	<http://rdf.freebase.com/ns/type.object.name>	"Tanning services"@en	.
+<http://rdf.freebase.com/ns/base.services.tanning_salon.tanning_services>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.spabase.spa_operator>	<http://rdf.freebase.com/ns/type.object.name>	"Spa operator"@en	.
+<http://rdf.freebase.com/ns/base.spabase.spa_operator>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.sportsrecords.sports_record_series>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.sportsrecords.sports_record_series>	<http://rdf.freebase.com/ns/type.object.name>	"Sports record series"@en	.
+<http://rdf.freebase.com/ns/base.stage_performance.stage_production.production_venue_relationship>	<http://rdf.freebase.com/ns/type.object.name>	"Production venue relationship"@en	.
+<http://rdf.freebase.com/ns/base.stage_performance.stage_production.production_venue_relationship>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.summarystatistics.cross_reference_topic>	<http://rdf.freebase.com/ns/type.object.name>	"Cross reference topic"@en	.
+<http://rdf.freebase.com/ns/base.summarystatistics.cross_reference_topic>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.svocab.movie.runtime>	<http://rdf.freebase.com/ns/type.object.name>	"runtime"@en	.
+<http://rdf.freebase.com/ns/base.svocab.movie.runtime>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.svocab.tvseries.startdate>	<http://rdf.freebase.com/ns/type.object.name>	"startDate"@en	.
+<http://rdf.freebase.com/ns/base.svocab.tvseries.startdate>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.sxswfilm.topic>	<http://rdf.freebase.com/ns/type.object.name>	"Topic"@en	.
+<http://rdf.freebase.com/ns/base.sxswfilm.topic>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.tallships.film_with_tall_ships>	<http://rdf.freebase.com/ns/type.object.name>	"Film with tall ships"@en	.
+<http://rdf.freebase.com/ns/base.tallships.film_with_tall_ships>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.tang1.wuzhenyu.gender>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.tang1.wuzhenyu.gender>	<http://rdf.freebase.com/ns/type.object.name>	"gender"@en	.
+<http://rdf.freebase.com/ns/base.testcards.test_card.country_used_in>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.testcards.test_card.country_used_in>	<http://rdf.freebase.com/ns/type.object.name>	"Country used in"@en	.
+<http://rdf.freebase.com/ns/base.textiles.textile.textile_designer>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.textiles.textile.textile_designer>	<http://rdf.freebase.com/ns/type.object.name>	"Textile Designer"@en	.
+<http://rdf.freebase.com/ns/base.theosbornboysaregrowing.osborn_family_member>	<http://rdf.freebase.com/ns/type.object.name>	"Membre de la famille Osborn"@fr	.
+<http://rdf.freebase.com/ns/base.theosbornboysaregrowing.osborn_family_member>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.theosbornboysaregrowing.osborn_family_member>	<http://rdf.freebase.com/ns/type.object.name>	"Osborn family member"@en	.
+<http://rdf.freebase.com/ns/base.theosbornboysaregrowing.osborn_family_member>	<http://rdf.freebase.com/ns/type.object.name>	"Člen rodiny Osbornovcov"@sk	.
+<http://rdf.freebase.com/ns/base.thingy.thingy.written_by>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.thingy.thingy.written_by>	<http://rdf.freebase.com/ns/type.object.name>	"Written by"@en	.
+<http://rdf.freebase.com/ns/base.thoroughbredracing.thoroughbred_racehorse.foaled>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.thoroughbredracing.thoroughbred_racehorse.foaled>	<http://rdf.freebase.com/ns/type.object.name>	"Foaled"@en	.
+<http://rdf.freebase.com/ns/base.titaniumminingbase.topic>	<http://rdf.freebase.com/ns/type.object.name>	"Topic"@en	.
+<http://rdf.freebase.com/ns/base.titaniumminingbase.topic>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.torgbase.character_s_reality.reality>	<http://rdf.freebase.com/ns/type.object.name>	"reality"@en	.
+<http://rdf.freebase.com/ns/base.torgbase.character_s_reality.reality>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.torgbase.reality.spirit_axiom>	<http://rdf.freebase.com/ns/type.object.name>	"Spirit axiom"@en	.
+<http://rdf.freebase.com/ns/base.torgbase.reality.spirit_axiom>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.tournaments.tournament.rounds>	<http://rdf.freebase.com/ns/type.object.name>	"Rounds"@en	.
+<http://rdf.freebase.com/ns/base.tournaments.tournament.rounds>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.tournaments.tournament_group.matches_or_rubbers_or_legs>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.tournaments.tournament_group.matches_or_rubbers_or_legs>	<http://rdf.freebase.com/ns/type.object.name>	"Matches (or rubbers or legs)"@en	.
+<http://rdf.freebase.com/ns/base.trixtypes.stat.stat_property>	<http://rdf.freebase.com/ns/type.object.name>	"Stat property"@en	.
+<http://rdf.freebase.com/ns/base.trixtypes.stat.stat_property>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.truereligion.collection_season>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.truereligion.collection_season>	<http://rdf.freebase.com/ns/type.object.name>	"Collection Season"@en	.
+<http://rdf.freebase.com/ns/base.uamember.lp>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.uamember.lp>	<http://rdf.freebase.com/ns/type.object.name>	"lp"@en	.
+<http://rdf.freebase.com/ns/base.ukpostcodes.uk_postcode.incode>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.ukpostcodes.uk_postcode.incode>	<http://rdf.freebase.com/ns/type.object.name>	"Incode"@en	.
+<http://rdf.freebase.com/ns/base.usnationalparks.us_national_park.closest_airports>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.usnationalparks.us_national_park.closest_airports>	<http://rdf.freebase.com/ns/type.object.name>	"Closest airports"@en	.
+<http://rdf.freebase.com/ns/base.usstatesymbols.state_symbols.state_color>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.usstatesymbols.state_symbols.state_color>	<http://rdf.freebase.com/ns/type.object.name>	"State color"@en	.
+<http://rdf.freebase.com/ns/base.usstatesymbols.state_symbols.state_vegetable>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.usstatesymbols.state_symbols.state_vegetable>	<http://rdf.freebase.com/ns/type.object.name>	"State vegetable"@en	.
+<http://rdf.freebase.com/ns/base.vancouver.city_street.quadrant>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.vancouver.city_street.quadrant>	<http://rdf.freebase.com/ns/type.object.name>	"Quadrant"@en	.
+<http://rdf.freebase.com/ns/base.virginiabroadband.stimulus_request.first_responders>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.virginiabroadband.stimulus_request.first_responders>	<http://rdf.freebase.com/ns/type.object.name>	"First Responders"@en	.
+<http://rdf.freebase.com/ns/base.visleg.collaboration.subject_topics>	<http://rdf.freebase.com/ns/type.object.name>	"Subject topics"@en	.
+<http://rdf.freebase.com/ns/base.visleg.collaboration.subject_topics>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.visleg.collaborator.topics_of_interest>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.visleg.collaborator.topics_of_interest>	<http://rdf.freebase.com/ns/type.object.name>	"Topics of interest"@en	.
+<http://rdf.freebase.com/ns/base.vwmtbase.vw_data_representation_2_view.to_view>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.vwmtbase.vw_data_representation_2_view.to_view>	<http://rdf.freebase.com/ns/type.object.name>	"to view"@en	.
+<http://rdf.freebase.com/ns/base.webvideo.internet_video_director.videos_directed>	<http://rdf.freebase.com/ns/type.object.name>	"Videos Directed"@en	.
+<http://rdf.freebase.com/ns/base.webvideo.internet_video_director.videos_directed>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.webvideo.internet_video_episode>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.webvideo.internet_video_episode>	<http://rdf.freebase.com/ns/type.object.name>	"Internet Video Episode"@en	.
+<http://rdf.freebase.com/ns/base.webvideo.internet_video_series.language>	<http://rdf.freebase.com/ns/type.object.name>	"Language"@en	.
+<http://rdf.freebase.com/ns/base.webvideo.internet_video_series.language>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.wikipedia.infobox_mineral.formula>	<http://rdf.freebase.com/ns/type.object.name>	"Formula"@en	.
+<http://rdf.freebase.com/ns/base.wikipedia.infobox_mineral.formula>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.wikipedia_infobox.video_game.released>	<http://rdf.freebase.com/ns/type.object.name>	"Released"@en	.
+<http://rdf.freebase.com/ns/base.wikipedia_infobox.video_game.released>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.wordnet.word_sense.pertains>	<http://rdf.freebase.com/ns/type.object.name>	"Pertains"@en	.
+<http://rdf.freebase.com/ns/base.wordnet.word_sense.pertains>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.wrestling.topic>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.wrestling.topic>	<http://rdf.freebase.com/ns/type.object.name>	"Topic"@en	.
+<http://rdf.freebase.com/ns/base.writing.grapheme>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.writing.grapheme>	<http://rdf.freebase.com/ns/type.object.name>	"Grapheme"@en	.
+<http://rdf.freebase.com/ns/base.x2009hackdayprojects.hack_day_project.team_member>	<http://rdf.freebase.com/ns/type.object.name>	"Team Member"@en	.
+<http://rdf.freebase.com/ns/base.x2009hackdayprojects.hack_day_project.team_member>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/base.x911muralsnyc.topic>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/base.x911muralsnyc.topic>	<http://rdf.freebase.com/ns/type.object.name>	"Topic"@en	.
+<http://rdf.freebase.com/ns/baseball.baseball_team_stats.team>	<http://rdf.freebase.com/ns/type.object.name>	"Team"@en	.
+<http://rdf.freebase.com/ns/baseball.baseball_team_stats.team>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/biology.animal_breed.examples>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/biology.animal_breed.examples>	<http://rdf.freebase.com/ns/type.object.name>	"Examples"@en	.
+<http://rdf.freebase.com/ns/biology.organism_classification.child_classifications>	<http://rdf.freebase.com/ns/type.object.name>	"Child Classifications"@en	.
+<http://rdf.freebase.com/ns/biology.organism_classification.child_classifications>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/boats.warship_service_period.start_date>	<http://rdf.freebase.com/ns/type.object.name>	"Start Date"@en	.
+<http://rdf.freebase.com/ns/boats.warship_service_period.start_date>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/book.interviewer>	<http://rdf.freebase.com/ns/type.object.name>	"Interviewer"@fr	.
+<http://rdf.freebase.com/ns/book.interviewer>	<http://rdf.freebase.com/ns/type.object.name>	"Interviewer"@en	.
+<http://rdf.freebase.com/ns/book.interviewer>	<http://rdf.freebase.com/ns/type.object.name>	"Vedúci interview"@sk	.
+<http://rdf.freebase.com/ns/book.interviewer>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/book.periodical_editor>	<http://rdf.freebase.com/ns/type.object.name>	"Periodical editor"@en	.
+<http://rdf.freebase.com/ns/book.periodical_editor>	<http://rdf.freebase.com/ns/type.object.name>	"Editor periodika"@sk	.
+<http://rdf.freebase.com/ns/book.periodical_editor>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/book.periodical_editor>	<http://rdf.freebase.com/ns/type.object.name>	"Rédacteur de presse périodique"@fr	.
+<http://rdf.freebase.com/ns/broadcast.radio_affiliation_duration.to_date>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/broadcast.radio_affiliation_duration.to_date>	<http://rdf.freebase.com/ns/type.object.name>	"To"@en	.
+<http://rdf.freebase.com/ns/broadcast.tv_station>	<http://rdf.freebase.com/ns/type.object.name>	"Station de télévision"@fr	.
+<http://rdf.freebase.com/ns/broadcast.tv_station>	<http://rdf.freebase.com/ns/type.object.name>	"TV Station"@en	.
+<http://rdf.freebase.com/ns/broadcast.tv_station>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/broadcast.tv_station>	<http://rdf.freebase.com/ns/type.object.name>	"Televízna stanica"@sk	.
+<http://rdf.freebase.com/ns/business.product_category.products>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/business.product_category.products>	<http://rdf.freebase.com/ns/type.object.name>	"Products"@en	.
+<http://rdf.freebase.com/ns/business.product_line.category>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/business.product_line.category>	<http://rdf.freebase.com/ns/type.object.name>	"Category"@en	.
+<http://rdf.freebase.com/ns/computer.os_compatibility.computer>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/computer.os_compatibility.computer>	<http://rdf.freebase.com/ns/type.object.name>	"Computer"@en	.
+<http://rdf.freebase.com/ns/dataworld.mass_data_operation.started_operation>	<http://rdf.freebase.com/ns/type.object.name>	"Started Operation"@en	.
+<http://rdf.freebase.com/ns/dataworld.mass_data_operation.started_operation>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/engineering.battery.size>	<http://rdf.freebase.com/ns/type.object.name>	"Size"@en	.
+<http://rdf.freebase.com/ns/engineering.battery.size>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/event.disaster>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/event.disaster>	<http://rdf.freebase.com/ns/type.object.name>	"Katastrofa"@sk	.
+<http://rdf.freebase.com/ns/event.disaster>	<http://rdf.freebase.com/ns/type.object.name>	"Catastrophe"@fr	.
+<http://rdf.freebase.com/ns/event.disaster>	<http://rdf.freebase.com/ns/type.object.name>	"Disaster"@en	.
+<http://rdf.freebase.com/ns/film.film_song_relationship.film>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/film.film_song_relationship.film>	<http://rdf.freebase.com/ns/type.object.name>	"Film"@en	.
+<http://rdf.freebase.com/ns/food.dish.recipes>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/food.dish.recipes>	<http://rdf.freebase.com/ns/type.object.name>	"Recipes"@en	.
+<http://rdf.freebase.com/ns/food.licensee_tenure.from>	<http://rdf.freebase.com/ns/type.object.name>	"From"@en	.
+<http://rdf.freebase.com/ns/food.licensee_tenure.from>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/freebase.apps.content_template.width>	<http://rdf.freebase.com/ns/type.object.name>	"Width"@en	.
+<http://rdf.freebase.com/ns/freebase.apps.content_template.width>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/freebase.apps.hosts.com.appspot.acre.glamourapartments.item_feature>	<http://rdf.freebase.com/ns/type.object.name>	"Item feature"@en	.
+<http://rdf.freebase.com/ns/freebase.apps.hosts.com.appspot.acre.glamourapartments.item_feature>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.type>	.
+<http://rdf.freebase.com/ns/freebase.apps.hosts.com.freebaseapps.glamourapartments.item.price>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/freebase.apps.hosts.com.freebaseapps.glamourapartments.item.price>	<http://rdf.freebase.com/ns/type.object.name>	"Price"@en	.
+<http://rdf.freebase.com/ns/freebase.apps.hosts.z.appspot.acre.topics.person2.cause_of_death>	<http://rdf.freebase.com/ns/type.object.name>	"Cause of death"@en	.
+<http://rdf.freebase.com/ns/freebase.apps.hosts.z.appspot.acre.topics.person2.cause_of_death>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/freebase.software_product_milestone.tickets>	<http://rdf.freebase.com/ns/type.object.name>	"Tickets"@en	.
+<http://rdf.freebase.com/ns/freebase.software_product_milestone.tickets>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/freebase.user_activity.topics_live>	<http://rdf.freebase.com/ns/type.object.name>	"Topics live"@en	.
+<http://rdf.freebase.com/ns/freebase.user_activity.topics_live>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/freebase.user_profile.favorite_domains>	<http://rdf.freebase.com/ns/type.object.name>	"Favorite Domains"@en	.
+<http://rdf.freebase.com/ns/freebase.user_profile.favorite_domains>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.

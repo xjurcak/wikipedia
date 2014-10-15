@@ -1,0 +1,44 @@
+<http://sk.dbpedia.org/resource/Kategória:Filozofia> <http://www.w3.org/2000/01/rdf-schema#label> "Filozofia"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Matematika> <http://www.w3.org/2000/01/rdf-schema#label> "Matematika"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Matematici> <http://www.w3.org/2000/01/rdf-schema#label> "Matematici"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Asertivita> <http://www.w3.org/2000/01/rdf-schema#label> "Asertivita"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Filozofické_smery> <http://www.w3.org/2000/01/rdf-schema#label> "Filozofické smery"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Filozofi> <http://www.w3.org/2000/01/rdf-schema#label> "Filozofi"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Mikroprocesory> <http://www.w3.org/2000/01/rdf-schema#label> "Mikroprocesory"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Krajiny_EÚ> <http://www.w3.org/2000/01/rdf-schema#label> "Krajiny EÚ"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Televízne_seriály> <http://www.w3.org/2000/01/rdf-schema#label> "Televízne seriály"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Bratislava> <http://www.w3.org/2000/01/rdf-schema#label> "Bratislava"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Žilina> <http://www.w3.org/2000/01/rdf-schema#label> "Žilina"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Anglickí_filmoví_herci> <http://www.w3.org/2000/01/rdf-schema#label> "Anglickí filmoví herci"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Českí_filmoví_herci> <http://www.w3.org/2000/01/rdf-schema#label> "Českí filmoví herci"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Francúzski_filmoví_herci> <http://www.w3.org/2000/01/rdf-schema#label> "Francúzski filmoví herci"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Slovenskí_filmoví_herci> <http://www.w3.org/2000/01/rdf-schema#label> "Slovenskí filmoví herci"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Talianski_filmoví_herci> <http://www.w3.org/2000/01/rdf-schema#label> "Talianski filmoví herci"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Filmoví_herci> <http://www.w3.org/2000/01/rdf-schema#label> "Filmoví herci"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Českí_filmoví_režiséri> <http://www.w3.org/2000/01/rdf-schema#label> "Českí filmoví režiséri"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Francúzski_filmoví_režiséri> <http://www.w3.org/2000/01/rdf-schema#label> "Francúzski filmoví režiséri"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Slovenskí_filmoví_režiséri> <http://www.w3.org/2000/01/rdf-schema#label> "Slovenskí filmoví režiséri"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Skladatelia_filmovej_hudby> <http://www.w3.org/2000/01/rdf-schema#label> "Skladatelia filmovej hudby"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Filmoví_režiséri> <http://www.w3.org/2000/01/rdf-schema#label> "Filmoví režiséri"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Scenáristi> <http://www.w3.org/2000/01/rdf-schema#label> "Scenáristi"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Hlavné_mestá> <http://www.w3.org/2000/01/rdf-schema#label> "Hlavné mestá"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Európske_mikroštáty> <http://www.w3.org/2000/01/rdf-schema#label> "Európske mikroštáty"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Monarchie> <http://www.w3.org/2000/01/rdf-schema#label> "Monarchie"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Vrchy> <http://www.w3.org/2000/01/rdf-schema#label> "Vrchy"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Rieky> <http://www.w3.org/2000/01/rdf-schema#label> "Rieky"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Ostrovy> <http://www.w3.org/2000/01/rdf-schema#label> "Ostrovy"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Televízne_relácie> <http://www.w3.org/2000/01/rdf-schema#label> "Televízne relácie"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Jazerá> <http://www.w3.org/2000/01/rdf-schema#label> "Jazerá"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Jazyky> <http://www.w3.org/2000/01/rdf-schema#label> "Jazyky"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Umelé_jazyky> <http://www.w3.org/2000/01/rdf-schema#label> "Umelé jazyky"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Existencialisti> <http://www.w3.org/2000/01/rdf-schema#label> "Existencialisti"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Roky> <http://www.w3.org/2000/01/rdf-schema#label> "Roky"@sk .
+<http://sk.dbpedia.org/resource/Kategória:1990> <http://www.w3.org/2000/01/rdf-schema#label> "1990"@sk .
+<http://sk.dbpedia.org/resource/Kategória:Filmy_z_1997> <http://www.w3.org/2000/01/rdf-schema#label> "Filmy z 1997"@sk .
+<http://sk.dbpedia.org/resource/Kategória:1997> <http://www.w3.org/2000/01/rdf-schema#label> "1997"@sk .
+<http://sk.dbpedia.org/resource/Kategória:90._roky_20._storočia> <http://www.w3.org/2000/01/rdf-schema#label> "90. roky 20. storočia"@sk .
+<http://sk.dbpedia.org/resource/Kategória:20._storočie> <http://www.w3.org/2000/01/rdf-schema#label> "20. storočie"@sk .
+<http://sk.dbpedia.org/resource/Kategória:1986> <http://www.w3.org/2000/01/rdf-schema#label> "1986"@sk .
+<http://sk.dbpedia.org/resource/Kategória:80._roky_20._storočia> <http://www.w3.org/2000/01/rdf-schema#label> "80. roky 20. storočia"@sk .
+<http://sk.dbpedia.org/resource/Kategória:1955> <http://www.w3.org/2000/01/rdf-schema#label> "1955"@sk .
+<http://sk.dbpedia.org/resource/Kategória:50._roky_20._storočia> <http://www.w3.org/2000/01/rdf-schema#label> "50. roky 20. storočia"@sk .

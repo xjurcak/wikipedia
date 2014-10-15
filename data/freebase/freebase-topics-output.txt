@@ -1,0 +1,142 @@
+ns/m.0d384p	"Avellaneda"@sk	
+ns/m.0d384p	ns/location.ar_department	
+ns/m.0d38k5	ns/base.cars_refactor.model	
+ns/m.0d38k5	"Maserati 350S"@en	
+ns/m.0d38k5	ns/common.topic	
+ns/m.0d38k5	ns/automotive.model	
+ns/m.0d38k5	ns/base.type_ontology.inanimate	
+ns/m.0d38k5	ns/base.type_ontology.abstract	
+ns/m.0d38k5	"Maserati 350S"@fr	
+ns/m.0d38k5	ns/base.type_ontology.non_agent	
+ns/m.0d39mw	ns/common.document	
+ns/m.0d3_94	ns/base.type_ontology.agent	
+ns/m.0d3_94	"Wade Andrews Williams"@en	
+ns/m.0d3_94	ns/film.person_or_entity_appearing_in_film	
+ns/m.0d3_94	ns/common.topic	
+ns/m.0d3_94	ns/tv.tv_actor	
+ns/m.0d3_94	ns/influence.influence_node	
+ns/m.0d3_94	ns/base.type_ontology.physically_instantiable	
+ns/m.0d3_94	ns/people.person	
+ns/m.0d3_94	ns/music.artist	
+ns/m.0d3_94	"Wade Andrew Williams"@fr	
+ns/m.0d3_94	"Wade Williams"@fr	
+ns/m.0d3_94	"Wade Williams"@en	
+ns/m.0d3_94	ns/base.type_ontology.animate	
+ns/m.0d3_94	"Wade Andrew Williams"@en	
+ns/m.0d3_94	ns/film.actor	
+ns/m.0d3_94	ns/music.group_member
+ns/m.0d3_x8_	ns/freebase.flag_judgment
+ns/m.0d3c3yp	ns/base.type_ontology.animate	
+ns/m.0d3c3yp	ns/people.person	
+ns/m.0d3c3yp	ns/base.type_ontology.agent	
+ns/m.0d3c3yp	ns/music.group_member	
+ns/m.0d3c3yp	ns/base.type_ontology.physically_instantiable	
+ns/m.0d3c3yp	ns/common.topic	
+ns/m.0d3c3yp	"Bruce MacIntyre"@en	
+ns/m.0d3cnh	ns/base.type_ontology.physically_instantiable	
+ns/m.0d3cnh	ns/base.type_ontology.agent	
+ns/m.0d3cnh	ns/base.type_ontology.animate	
+ns/m.0d3cnh	ns/people.person	
+ns/m.0d3cnh	ns/common.topic	
+ns/m.0d3cnh	"Panabaka Lakshmi"@en	
+ns/m.0d3cnh	ns/government.politician	
+ns/m.0d3dvy	ns/people.measured_person	
+ns/m.0d3dvy	ns/base.type_ontology.agent	
+ns/m.0d3dvy	"Dale Saunders"@en	
+ns/m.0d3dvy	ns/soccer.football_player	
+ns/m.0d3dvy	ns/base.type_ontology.animate	
+ns/m.0d3dvy	ns/base.type_ontology.physically_instantiable	
+ns/m.0d3dvy	ns/people.person	
+ns/m.0d3dvy	ns/common.topic	
+ns/m.0d3dvy	ns/sports.pro_athlete	
+ns/m.0d3f4g	ns/common.document	
+ns/m.0d3g9m	ns/people.person	
+ns/m.0d3g9m	ns/base.type_ontology.physically_instantiable	
+ns/m.0d3g9m	ns/base.type_ontology.animate	
+ns/m.0d3g9m	ns/base.type_ontology.agent	
+ns/m.0d3g9m	ns/people.deceased_person	
+ns/m.0d3g9m	ns/government.politician	
+ns/m.0d3g9m	"Alexandre Mouton"@fr	
+ns/m.0d3g9m	"Alexandre Mouton"@en	
+ns/m.0d3g9m	ns/government.u_s_congressperson	
+ns/m.0d3g9m	ns/common.topic	
+ns/m.0d3hs5	ns/common.topic	
+ns/m.0d3hs5	ns/user.robert.data_nursery.aircraft_engine	
+ns/m.0d3hs5	"Jabiru 3300"@en	
+ns/m.0d3hyfp	"JC"@en	
+ns/m.0d3hyfp	ns/base.type_ontology.physically_instantiable	
+ns/m.0d3hyfp	ns/base.type_ontology.agent	
+ns/m.0d3hyfp	"Jodi Collins"@en	
+ns/m.0d3hyfp	ns/people.person	
+ns/m.0d3hyfp	ns/film.film_casting_director	
+ns/m.0d3hyfp	ns/base.type_ontology.animate	
+ns/m.0d3hyfp	"Jodi Levy"@en	
+ns/m.0d3hyfp	ns/common.topic	
+ns/m.0d3j73	ns/base.wikipedia_infobox.video_game	
+ns/m.0d3j73	ns/cvg.computer_videogame	
+ns/m.0d3j73	ns/base.type_ontology.abstract	
+ns/m.0d3j73	ns/common.topic	
+ns/m.0d3j73	ns/base.type_ontology.inanimate	
+ns/m.0d3j73	"Blade"@en	
+ns/m.0d3j73	ns/base.type_ontology.non_agent	
+ns/m.0d3kt6	ns/base.type_ontology.agent	
+ns/m.0d3kt6	ns/base.popstra.restaurant	
+ns/m.0d3kt6	ns/base.popstra.topic	
+ns/m.0d3kt6	ns/business.employer	
+ns/m.0d3kt6	ns/base.type_ontology.inanimate	
+ns/m.0d3kt6	ns/base.type_ontology.abstract	
+ns/m.0d3kt6	ns/base.popstra.sww_base	
+ns/m.0d3kt6	ns/business.business_operation	
+ns/m.0d3kt6	ns/common.topic	
+ns/m.0d3kt6	"Auntie Anne's"@en	
+ns/m.0d3kt6	ns/organization.organization	
+ns/m.0d3kt6	"Auntie Anne's"@fr	
+ns/m.0d3kt6	ns/business.business_location	
+ns/m.0d3kt6	ns/dining.restaurant
+ns/m.0d3q9m	ns/base.type_ontology.non_agent	
+ns/m.0d3q9m	ns/book.written_work	
+ns/m.0d3q9m	ns/base.type_ontology.inanimate	
+ns/m.0d3q9m	ns/common.topic	
+ns/m.0d3q9m	"Run Like an Antelope"@en	
+ns/m.0d3q9m	ns/book.book	
+ns/m.0d3q9m	ns/base.type_ontology.abstract	
+ns/m.0d3qtn	ns/common.topic	
+ns/m.0d3qtn	ns/people.person	
+ns/m.0d3qtn	"Shaoul Avigour"@fr	
+ns/m.0d3qtn	ns/people.deceased_person	
+ns/m.0d3qtn	"Shaul Avigur"@en	
+ns/m.0d3qtn	ns/base.type_ontology.animate	
+ns/m.0d3qtn	ns/base.type_ontology.agent	
+ns/m.0d3qtn	ns/base.type_ontology.physically_instantiable	
+ns/m.0d3r5c	ns/base.type_ontology.inanimate	
+ns/m.0d3r5c	"Route 265"@fr	
+ns/m.0d3r5c	ns/location.location	
+ns/m.0d3r5c	ns/common.topic	
+ns/m.0d3r5c	ns/base.type_ontology.non_agent	
+ns/m.0d3r5c	"Quebec Route 265"@en	
+ns/m.0d3r5c	ns/transportation.road	
+ns/m.0d3r9p	ns/common.document	
+ns/m.0d3rgw ns/common.document
+ns/m.0d3str8	ns/freebase.query	
+ns/m.0d3str8	"James Tiptree Jr. Award Winners"@en	
+ns/m.0d3str8	ns/common.topic	
+ns/m.0d3str8	ns/common.document	
+ns/m.0d3t_8	ns/common.topic	
+ns/m.0d3t_8	ns/base.type_ontology.physically_instantiable	
+ns/m.0d3t_8	ns/base.type_ontology.agent	
+ns/m.0d3t_8	ns/people.deceased_person	
+ns/m.0d3t_8	"Matthew Kilpatrick"@en	
+ns/m.0d3t_8	ns/base.type_ontology.animate	
+ns/m.0d3t_8	ns/people.person	
+ns/m.0d3x97f	ns/type.usergroup	
+ns/m.0d3x97f	"Owners of papadavo's default types"@en	
+ns/m.0d3y47	"Tim Walker"@en	
+ns/m.0d3y47	ns/common.topic	
+ns/m.0d3y47	ns/base.type_ontology.animate	
+ns/m.0d3y47	ns/base.type_ontology.agent	
+ns/m.0d3y47	ns/people.deceased_person	
+ns/m.0d3y47	ns/base.type_ontology.physically_instantiable	
+ns/m.0d3y47	ns/people.person	
+ns/m.0d3y47	ns/government.politician	
+ns/m.0d40lw	ns/common.document	
+ns/m.0d412b	"Championnat de golf amateur des États-Unis femmes"@fr	
