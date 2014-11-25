@@ -25,7 +25,7 @@ public class CategoriesSearcher {
 
             Query query = new TermQuery(new Term("id", id));
 
-            System.out.println("Searching for: " + query.toString());
+            //System.out.println("Searching for: " + query.toString());
 
             // Collect enough docs to show 5 pages
             TopDocs results = searcher.search(query, 5 * 10);
@@ -40,7 +40,7 @@ public class CategoriesSearcher {
             }
 
             int numTotalHits = results.totalHits;
-            System.out.println(numTotalHits + " total matching documents");
+            //System.out.println(numTotalHits + " total matching documents");
 
             reader.close();
 

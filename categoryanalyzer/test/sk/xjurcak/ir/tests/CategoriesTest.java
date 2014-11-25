@@ -11,8 +11,12 @@ import java.io.File;
  */
 public class CategoriesTest extends LuceneTestCase {
 
+    public static File indexDir = new File("indexes");
+
+
+
     public void testFreebaseSearch() throws ParseException {
-        File indexFile = IndexPaths.createCategoryPath(IndexPaths.Source.FREEBASE, IndexPaths.Lang.EN);
+        File indexFile = IndexPaths.createCategoryPath(indexDir, IndexPaths.Source.FREEBASE, IndexPaths.Lang.EN);
         Content[] categories = CategoriesSearcher.search(indexFile, "Connecticut");
         assertEquals(categories.length, 1);
         assertEquals(categories[0].getId(), "m.06nsh7j");
@@ -21,7 +25,7 @@ public class CategoriesTest extends LuceneTestCase {
     }
 
     public void testDBPediaSearch() throws ParseException {
-        File indexFile = IndexPaths.createCategoryPath(IndexPaths.Source.DBPEDIA, IndexPaths.Lang.EN);
+        File indexFile = IndexPaths.createCategoryPath(indexDir, IndexPaths.Source.DBPEDIA, IndexPaths.Lang.EN);
         Content[] categories = CategoriesSearcher.search(indexFile, "Connecticut");
         assertEquals(categories.length, 50);
         assertEquals(categories[0].getId(), "connecticut_lawyers");
@@ -30,12 +34,12 @@ public class CategoriesTest extends LuceneTestCase {
     }
 
     public void testFreebaseTopicsSearch() throws ParseException {
-        File indexFile = IndexPaths.createTopicPath(IndexPaths.Source.FREEBASE, IndexPaths.Lang.EN);
-        File categoriesIndexFile = IndexPaths.createCategoryPath(IndexPaths.Source.FREEBASE, IndexPaths.Lang.EN);
+        File indexFile = IndexPaths.createTopicPath(indexDir, IndexPaths.Source.FREEBASE, IndexPaths.Lang.EN);
+        File categoriesIndexFile = IndexPaths.createCategoryPath(indexDir, IndexPaths.Source.FREEBASE, IndexPaths.Lang.EN);
 
-        Topic[] topics = TopicSearcher.search(indexFile, TopicIndexer.TopicField.TITLE, "\"Isaac Newton\"");
+        Topic[] topics = TopicSearcher.search(indexFile, TopicIndexer.TopicField.TITLE, "Isaac Newton");
         assertTrue(topics.length > 0);
-        assertEquals(topics[0].getId(), "m.0ft1lw_");
+        assertEquals(topics[0].getId(), "m.04vmxdn");
         assertEquals(topics[0].getTitle(), "Isaac Newton");
 
         for(Topic topic : topics){
@@ -48,9 +52,9 @@ public class CategoriesTest extends LuceneTestCase {
     }
 
     public void testDBPediaTopicsSearch() throws ParseException {
-        File topicLabelPath = IndexPaths.createTopicLabelPath(IndexPaths.Source.DBPEDIA, IndexPaths.Lang.EN);
-        File categoriesIndexFile = IndexPaths.createCategoryPath(IndexPaths.Source.DBPEDIA, IndexPaths.Lang.EN);
-        File indexFile = IndexPaths.createTopicArticleCategoriesPath(IndexPaths.Source.DBPEDIA, IndexPaths.Lang.EN);
+        File topicLabelPath = IndexPaths.createTopicLabelPath(indexDir, IndexPaths.Source.DBPEDIA, IndexPaths.Lang.EN);
+        File categoriesIndexFile = IndexPaths.createCategoryPath(indexDir, IndexPaths.Source.DBPEDIA, IndexPaths.Lang.EN);
+        File indexFile = IndexPaths.createTopicArticleCategoriesPath(indexDir, IndexPaths.Source.DBPEDIA, IndexPaths.Lang.EN);
 
         Topic[] topics = TopicSearcher.search(topicLabelPath, TopicIndexer.TopicField.TITLE, "\"Isaac Newton\"");
         assertTrue(topics.length > 0);
@@ -67,5 +71,11 @@ public class CategoriesTest extends LuceneTestCase {
             }
         }
 
+    }
+
+    @Override
+    public void setUp() throws Exception {
+        super.setUp();
+        assertTrue(indexDir.isDirectory());
     }
 }

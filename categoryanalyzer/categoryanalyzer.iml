@@ -13,6 +13,8 @@
     <orderEntry type="library" name="org.apache.commons:com.springsource.org.apache.commons.compress:1.1.0" level="application" />
     <orderEntry type="library" name="lucene-test-framework-4.10.2" level="application" />
     <orderEntry type="library" name="queryparser" level="application" />
+    <orderEntry type="library" name="com.google.code.gson:gson:2.3" level="application" />
+    <orderEntry type="library" name="lucene-suggest-4.10.2" level="application" />
   </component>
 </module>
 

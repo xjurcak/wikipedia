@@ -100,7 +100,7 @@ public class TopicIndexer {
         doc.add(pathField);
 
         if (topic.getTitle() != null)
-            doc.add(new TextField(TopicField.TITLE.getName(), topic.getTitle(), Field.Store.YES));
+            doc.add(new StringField(TopicField.TITLE.getName(), topic.getTitle(), Field.Store.YES));
 
         if (topic.getTypes() != null) {
             doc.add(new StringField(TopicField.TYPES.getName(), topic.getTypes(), Field.Store.YES));

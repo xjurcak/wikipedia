@@ -19,11 +19,19 @@ public class IndexApplication {
 
     public static void main(String[] args){
 
+        String indexPath = "indexes";
+
+        File indexDir = new File(indexPath);
+        if(!indexDir.isDirectory()){
+            System.err.println("Index path is not valid index directory");
+            System.exit(1);
+        }
+
         //index dbpedia topic labes
         //indexDBPediaTopics();
 
         //index freebase topics
-        indexFreebaseTopics();
+        indexFreebaseTopics(indexDir);
 
         //index dbpedia categories
         //indexDBPediaCategories();
@@ -32,10 +40,10 @@ public class IndexApplication {
         //indexFreebaseCategories();
     }
 
-    private static void indexFreebaseCategories() {
+    private static void indexFreebaseCategories(File indexDir) {
         try {
-            FileInputStream fis = new FileInputStream(Utils.getDataPath("sk/xjurcak/ir/freebase/data/generate_freebase_types").toFile());
-            File indexFile = IndexPaths.createCategoryPath(IndexPaths.Source.FREEBASE, IndexPaths.Lang.EN);
+            FileInputStream fis = new FileInputStream("data/freebase/generate_freebase_types");
+            File indexFile = IndexPaths.createCategoryPath(indexDir, IndexPaths.Source.FREEBASE, IndexPaths.Lang.EN);
             indexFile.mkdirs();
 
             ContentIndexer.index(new FreebaseCategoryReader(fis), indexFile);
@@ -45,10 +53,10 @@ public class IndexApplication {
         }
     }
 
-    private static void indexDBPediaCategories() {
+    private static void indexDBPediaCategories(File indexDir) {
         try {
             FileInputStream fis = new FileInputStream(Utils.getDataPath("sk/xjurcak/ir/dbpedia/data/category_labels_en.ttl").toFile());
-            File indexFile = IndexPaths.createCategoryPath(IndexPaths.Source.DBPEDIA, IndexPaths.Lang.EN);
+            File indexFile = IndexPaths.createCategoryPath(indexDir, IndexPaths.Source.DBPEDIA, IndexPaths.Lang.EN);
             indexFile.mkdirs();
 
             ContentIndexer.index(new DBPediaCategoryReader(fis), indexFile);
@@ -58,16 +66,16 @@ public class IndexApplication {
         }
     }
 
-    private static void indexDBPediaTopics() {
+    private static void indexDBPediaTopics(File indexDir) {
         try {
-            FileInputStream fis = new FileInputStream(Utils.getDataPath("sk/xjurcak/ir/dbpedia/data/labels_en.ttl").toFile());
-            File indexFile = IndexPaths.createTopicLabelPath(IndexPaths.Source.DBPEDIA, IndexPaths.Lang.EN);
+            FileInputStream fis = new FileInputStream("data/dbpedia/labels_en.ttl");
+            File indexFile = IndexPaths.createTopicLabelPath(indexDir, IndexPaths.Source.DBPEDIA, IndexPaths.Lang.EN);
             indexFile.mkdirs();
 
             TopicIndexer.index(new DBPediaLabelsReader(fis), indexFile);
             fis.close();
 
-            indexFile = IndexPaths.createTopicArticleCategoriesPath(IndexPaths.Source.DBPEDIA, IndexPaths.Lang.EN);
+            indexFile = IndexPaths.createTopicArticleCategoriesPath(indexDir, IndexPaths.Source.DBPEDIA, IndexPaths.Lang.EN);
             indexFile.mkdirs();
             fis = new FileInputStream("data/dbpedia/article_categories_en.ttl");
             TopicIndexer.index(new DBPediaArticleCategoryReader(fis), indexFile);
@@ -78,10 +86,10 @@ public class IndexApplication {
         }
     }
 
-    private static void indexFreebaseTopics() {
+    private static void indexFreebaseTopics(File indexDir) {
         try {
             FileInputStream fis = new FileInputStream("generate_freebase_topics");
-            File indexFile = IndexPaths.createTopicPath(IndexPaths.Source.FREEBASE, IndexPaths.Lang.EN);
+            File indexFile = IndexPaths.createTopicPath(indexDir, IndexPaths.Source.FREEBASE, IndexPaths.Lang.EN);
             indexFile.mkdirs();
 
             FreebaseTopicReader reader = new FreebaseTopicReader(fis);

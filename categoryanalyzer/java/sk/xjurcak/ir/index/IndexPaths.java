@@ -9,8 +9,8 @@ public class IndexPaths {
 
     public enum Source{
 
-        FREEBASE("indexes/freebase"),
-        DBPEDIA("indexes/dbpedia");
+        FREEBASE("freebase"),
+        DBPEDIA("dbpedia");
 
         private String path;
 
@@ -39,20 +39,20 @@ public class IndexPaths {
         }
     }
 
-    public static File createCategoryPath(Source source, Lang lang){
-        return new File(source.getPath() + "/category/" + lang.getLang());
+    public static File createCategoryPath(File indexDir, Source source, Lang lang){
+        return new File(indexDir.getPath() + "/" + source.getPath() + "/category/" + lang.getLang());
     }
 
-    public static File createTopicPath(Source source, Lang lang){
-        return new File(source.getPath() + "/topic/" + lang.getLang());
+    public static File createTopicPath(File indexDir, Source source, Lang lang){
+        return new File(indexDir.getPath() + "/" + source.getPath() + "/topic/" + lang.getLang());
     }
 
-    public static File createTopicLabelPath(Source source, Lang lang){
-        return new File(source.getPath() + "/topic/labels/" + lang.getLang());
+    public static File createTopicLabelPath(File indexDir, Source source, Lang lang){
+        return new File(indexDir.getPath() + "/" + source.getPath() + "/topic/labels/" + lang.getLang());
     }
 
-    public static File createTopicArticleCategoriesPath(Source source, Lang lang){
-        return new File(source.getPath() + "/topic/article_categories/" + lang.getLang());
+    public static File createTopicArticleCategoriesPath(File indexDir, Source source, Lang lang){
+        return new File(indexDir.getPath() + "/" + source.getPath() + "/topic/article_categories/" + lang.getLang());
     }
 
 }

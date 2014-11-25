@@ -36,9 +36,9 @@ public class TopicSearcher {
             if(topicField == TopicIndexer.TopicField.ID)
                 query = new TermQuery(new Term(topicField.getName(), queryString));
             else
-                query = parser.createBooleanQuery(topicField.getName(), queryString);
+                query = new TermQuery(new Term(topicField.getName(), queryString));//parser.createPhraseQuery(topicField.getName(), queryString);
 
-            System.out.println("Searching for: " + query.toString());
+            //System.out.println("Searching for: " + query.toString());
 
             // Collect enough docs to show 5 pages
             TopDocs results = searcher.search(query, 5 * 10);
@@ -54,7 +54,7 @@ public class TopicSearcher {
             }
 
             int numTotalHits = results.totalHits;
-            System.out.println(numTotalHits + " total matching documents");
+            //System.out.println(numTotalHits + " total matching documents");
 
             reader.close();
 
