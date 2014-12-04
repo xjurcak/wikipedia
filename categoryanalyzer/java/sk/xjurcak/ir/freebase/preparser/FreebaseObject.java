@@ -1,7 +1,10 @@
 package sk.xjurcak.ir.freebase.preparser;
 
+import com.google.gson.stream.JsonWriter;
+
 import java.io.IOException;
 import java.io.OutputStream;
+import java.io.StringWriter;
 
 /**
  * Created by xjurcak on 10/31/2014.
@@ -38,7 +41,37 @@ public abstract class FreebaseObject {
         names[2] = name;
     }
 
-    public abstract void persist(OutputStream fos) throws IOException;
+    public void persist(OutputStream fos) throws IOException {
+        StringWriter stringWriter = new StringWriter();
+        JsonWriter gson = new JsonWriter(stringWriter);
+        gson.beginObject();
+
+        //write types
+        writeJson(gson);
+
+        gson.endObject();
+        gson.close();
+
+        fos.write(stringWriter.toString().getBytes());
+        fos.write('\n');
+    }
+
+    protected void writeJson(JsonWriter gson) throws IOException {
+
+        //write id
+        gson.name("id");
+        gson.value(getId().substring(28, getId().length() - 1));
+
+        //write names
+        gson.name("names");
+        gson.beginArray();
+
+        for(String names : getNames()){
+            gson.value(names);
+        }
+
+        gson.endArray();
+    }
 
     public boolean isValid() {
         if(id == null)

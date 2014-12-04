@@ -6,7 +6,7 @@ import java.io.IOException;
  * Created by xjurcak on 10/31/2014.
  */
 public class RDFFileProcessor {
-    protected static void readLines(BufferedReaderChanged gis, RDFLineProcessor processor) throws IOException {
+    public static void readLines(BufferedReaderChanged gis, RDFLineProcessor processor) throws IOException {
         String line;
         double i = 0;
         while(( line = gis.readLine()) != null){
@@ -17,10 +17,13 @@ public class RDFFileProcessor {
             if(split.length != 4)
                 continue;
 
-            if(i%1000000 == 0)
-                System.out.println("GZip line number: " + i );
+            if(i%100000 == 0) {
+                System.out.print("\rGZip line number: " + i);
+            }
             processor.processLine(split);
 
+            if(i > 10000000)
+                break;
 
         }
     }

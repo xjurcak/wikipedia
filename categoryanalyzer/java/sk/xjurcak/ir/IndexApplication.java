@@ -19,13 +19,41 @@ public class IndexApplication {
 
     public static void main(String[] args){
 
-        String indexPath = "indexes";
+        String usage = "This aplication create indexes for DPBedia and Freebase article categories. Indexes are stored in INDEX_PATH directory. Use sk.xjurcak.Application for categories comparison. \n"
+                + "Usage: \n"
+                + "sk.xjurcak.ir.Application -article TITLE [-index INDEX_PATH]\n"
+                + "[-index INDEX_PATH]: Path to indexes stored bz IndexApplication"
+                + "[-freebaseTopics FREEBASE_TOPIC_DATA_PATH]"
+                + "[-freebaseTypes FREEBASE_TYPES_DATA_PATH]";
 
-        File indexDir = new File(indexPath);
-        if(!indexDir.isDirectory()){
-            System.err.println("Index path is not valid index directory");
+
+        String indexPath = "indexes";
+        String article = null;
+//        boolean create = true;
+        for(int i=0;i<args.length;i++) {
+            if ("-index".equals(args[i])) {
+                indexPath = args[i+1];
+                i++;
+            }
+
+            if ("-article".equals(args[i])) {
+                article = args[i+1];
+                i++;
+            }
+
+            if ("-help".equals(args[i])) {
+                System.out.println(usage);
+                i++;
+                System.exit(1);
+            }
+        }
+
+        if(article == null){
+            System.err.println("ERROR: -article parameter missing. You must specify article name.");
             System.exit(1);
         }
+
+        File indexDir = new File(indexPath);
 
         //index dbpedia topic labes
         //indexDBPediaTopics();

@@ -1,7 +1,9 @@
 package sk.xjurcak.ir.freebase.preparser;
 
-import java.io.IOException;
-import java.io.OutputStream;
+import com.google.gson.Gson;
+import com.google.gson.stream.JsonWriter;
+
+import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -17,16 +19,17 @@ public class FreebaseTopic extends FreebaseObject {
         types.add(type);
     }
 
-    public void persist(OutputStream fos) throws IOException {
-        StringBuilder b = new StringBuilder();
-        b.append(getId().substring(28, getId().length() - 1));
-        b.append(Arrays.toString(getNames()));
-        b.append("[");
-            for(String s : types){
-                b.append(s.substring(28, s.length() - 1));
-                b.append(",");
-            }
-        b.append("]\n");
-        fos.write(b.toString().getBytes());
+    @Override
+    protected void writeJson(JsonWriter gson) throws IOException {
+        super.writeJson(gson);
+
+        //write types
+        gson.name("types");
+        gson.beginArray();
+
+        for(String s : types){
+            gson.value(s.substring(28, s.length() - 1));
+        }
+        gson.endArray();
     }
 }
