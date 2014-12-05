@@ -23,7 +23,7 @@ public class FreebaseTopicRDFLineProcessor extends RDFLineProcessor {
             if (!skip && type != null && type.isValid()) {
                 typeNumber++;
                 type.persist(fos);
-                System.out.print("\rType number writed: " + typeNumber);
+                System.out.print("\rTopic number writed: " + typeNumber);
             }
             type = new FreebaseTopic();
             type.setId(split[0]);

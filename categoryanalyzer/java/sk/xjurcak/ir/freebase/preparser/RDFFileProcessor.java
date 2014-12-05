@@ -22,9 +22,6 @@ public class RDFFileProcessor {
             }
             processor.processLine(split);
 
-            if(i > 10000000)
-                break;
-
         }
     }
 }
