@@ -1,0 +1,75 @@
+{"id":"award.award_winner","names":["\"Award Winner\"@en","\"Víťaz ceny\"@sk","\"Lauréat\"@fr"]}
+{"id":"award.long_list_nominee","names":["\"Long-list nominee\"@en",null,null]}
+{"id":"base.aareas.schema.au.local_government_area","names":["\"Australian local government area\"@en",null,null]}
+{"id":"base.aareas.schema.dj.region","names":["\"Djibouti region\"@en",null,null]}
+{"id":"base.aareas.schema.it.commune","names":["\"Italian commune\"@en",null,null]}
+{"id":"base.aareas.schema.pg.province","names":["\"Papua New Guinean province\"@en",null,null]}
+{"id":"base.banking.investment_scheme","names":["\"Investment scheme\"@en",null,null]}
+{"id":"base.bioventurist.science_or_technology_company","names":["\"Science or Technology Company\"@en",null,null]}
+{"id":"base.birdconservation.topic","names":["\"Topic\"@en",null,null]}
+{"id":"base.birdinfo.parasitism","names":["\"Parasitism\"@en",null,null]}
+{"id":"base.bizmo.internal_influencer","names":["\"Internal Influencer\"@en",null,null]}
+{"id":"base.britishpubs.pub_owner_tenure","names":["\"Pub owner tenure\"@en",null,null]}
+{"id":"base.burningkumquat.harvest","names":["\"Harvest\"@en",null,null]}
+{"id":"base.collectives.collective_member","names":["\"Collective Member\"@en","\"Člen spolku\"@sk","\"Membre de collectif\"@fr"]}
+{"id":"base.cricketvenues.topic","names":["\"Topic\"@en",null,null]}
+{"id":"base.crime.police_officer","names":["\"Law enforcement officer\"@en","\"Dohliadač na verejný poriadok\"@sk","\"Agent de la force publique\"@fr"]}
+{"id":"base.crmbase.developer","names":["\"developer\"@en",null,null]}
+{"id":"base.dentalnet.topic","names":["\"Topic\"@en",null,null]}
+{"id":"base.endofallthings.apocalyptic_proponent","names":["\"Apocalyptic proponent\"@en",null,null]}
+{"id":"base.engineeringdraft.manufacturing_plant_production","names":["\"Manufacturing plant production\"@en",null,null]}
+{"id":"base.famousuniversity.topic","names":["\"Topic\"@en",null,null]}
+{"id":"base.fight.labour_dispute_cause","names":["\"Labour dispute cause\"@en","\"Príčina pracovného sporu\"@sk","\"Cause de litige professionnel\"@fr"]}
+{"id":"base.financialmeltdown.topic","names":["\"Topic\"@en",null,null]}
+{"id":"base.food_menu.regional_cuisine","names":["\"Regional Cuisine\"@en",null,null]}
+{"id":"base.greece.gr_periphery","names":["\"Greek periphery\"@en",null,null]}
+{"id":"base.home12259071564150.sdf","names":["\"sdf\"@en",null,null]}
+{"id":"base.horsefacts.tack","names":["\"Horse tack\"@en","\"jazdecká výstroj\"@sk","\"harnachement\"@fr"]}
+{"id":"base.horticulture.cultivar_group","names":["\"Cultivar Group\"@en",null,null]}
+{"id":"base.indonesia.democracy","names":["\"democracy\"@en",null,null]}
+{"id":"base.ivoire.topic","names":["\"Topic\"@en",null,null]}
+{"id":"base.jewlib.topic","names":["\"Topic\"@en",null,null]}
+{"id":"base.kinometric.genre","names":["\"Genre\"@en",null,null]}
+{"id":"base.learningresource.educational_audio","names":["\"educational audio\"@en",null,null]}
+{"id":"base.lewisandclark.indian_tribes","names":["\"Indian Tribes that Lewis & Clark Encountered\"@en",null,null]}
+{"id":"base.libreas.topic","names":["\"Topic\"@en",null,null]}
+{"id":"base.lightweight.wine_grape","names":["\"Wine grape\"@en",null,null]}
+{"id":"base.mathematics1.mathematical_concept","names":["\"Mathematical concept\"@en",null,null]}
+{"id":"base.mladraft.archive","names":["\"Archive\"@en",null,null]}
+{"id":"base.music_references.oldies","names":["\"Oldies\"@en",null,null]}
+{"id":"base.myevents.project_meeting","names":["\"Project Meeting\"@en","\"Projektová schôdzka\"@sk","\"Réunion de projet\"@fr"]}
+{"id":"base.myschool.course_requirement","names":["\"course_requirement\"@en",null,null]}
+{"id":"base.nationalbridgeinventory.predicted_traffic_rate","names":["\"Predicted Traffic Rate\"@en",null,null]}
+{"id":"base.pests.pest","names":["\"Pest\"@en",null,null]}
+{"id":"base.playgirlmanoftheyear.topic","names":["\"Topic\"@en",null,null]}
+{"id":"base.products.product_type","names":["\"product_type\"@en",null,null]}
+{"id":"base.researchlocations.research_topic","names":["\"Research topic\"@en","\"Téma výskumu\"@sk","\"Thème de recherche\"@fr"]}
+{"id":"base.sailboat.sailboat","names":["\"sailboat\"@en",null,null]}
+{"id":"base.satellites.topic","names":["\"Topic\"@en",null,null]}
+{"id":"base.savewater.topic","names":["\"Topic\"@en",null,null]}
+{"id":"base.schemastaging.gender_group","names":["\"Gender group\"@en",null,null]}
+{"id":"base.seafood.seafood_guide_publisher","names":["\"Seafood guide publisher\"@en",null,null]}
+{"id":"base.services.per_time","names":["\"per Time\"@en",null,null]}
+{"id":"base.services.storage_facility","names":["\"Storage facility\"@en",null,null]}
+{"id":"base.spabase.spa_operator","names":["\"Spa operator\"@en",null,null]}
+{"id":"base.sportsrecords.sports_record_series","names":["\"Sports record series\"@en",null,null]}
+{"id":"base.summarystatistics.cross_reference_topic","names":["\"Cross reference topic\"@en",null,null]}
+{"id":"base.sxswfilm.topic","names":["\"Topic\"@en",null,null]}
+{"id":"base.tallships.film_with_tall_ships","names":["\"Film with tall ships\"@en",null,null]}
+{"id":"base.theosbornboysaregrowing.osborn_family_member","names":["\"Osborn family member\"@en","\"Člen rodiny Osbornovcov\"@sk","\"Membre de la famille Osborn\"@fr"]}
+{"id":"base.titaniumminingbase.topic","names":["\"Topic\"@en",null,null]}
+{"id":"base.truereligion.collection_season","names":["\"Collection Season\"@en",null,null]}
+{"id":"base.uamember.lp","names":["\"lp\"@en",null,null]}
+{"id":"base.webvideo.internet_video_episode","names":["\"Internet Video Episode\"@en",null,null]}
+{"id":"base.wrestling.topic","names":["\"Topic\"@en",null,null]}
+{"id":"base.writing.grapheme","names":["\"Grapheme\"@en",null,null]}
+{"id":"base.x911muralsnyc.topic","names":["\"Topic\"@en",null,null]}
+{"id":"book.interviewer","names":["\"Interviewer\"@en","\"Vedúci interview\"@sk","\"Interviewer\"@fr"]}
+{"id":"book.periodical_editor","names":["\"Periodical editor\"@en","\"Editor periodika\"@sk","\"Rédacteur de presse périodique\"@fr"]}
+{"id":"broadcast.tv_station","names":["\"TV Station\"@en","\"Televízna stanica\"@sk","\"Station de télévision\"@fr"]}
+{"id":"event.disaster","names":["\"Disaster\"@en","\"Katastrofa\"@sk","\"Catastrophe\"@fr"]}
+{"id":"freebase.apps.hosts.com.appspot.acre.glamourapartments.item_feature","names":["\"Item feature\"@en",null,null]}
+{"id":"government.election_campaign","names":["\"Election campaign\"@en","\"Volebná kampaň\"@sk","\"Campagne électorale\"@fr"]}
+{"id":"government.government_office_category","names":["\"Government office category\"@en",null,null]}
+{"id":"government.governmental_jurisdiction","names":["\"Governmental Jurisdiction\"@en","\"Jurisdikcia vládneho orgánu\"@sk","\"Juridiction gouvernementale\"@fr"]}
+{"id":"location.id_province","names":["\"Indonesian province\"@en","\"Indonézia – provincia\"@sk","\"Indonesian province\"@fr"]}

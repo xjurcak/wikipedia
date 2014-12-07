@@ -1,0 +1,29 @@
+# started 2013-07-10T03:11:48Z
+<http://dbpedia.org/resource/Category:Futurama> <http://www.w3.org/2000/01/rdf-schema#label> "Futurama"@en .
+<http://dbpedia.org/resource/Category:World_War_II> <http://www.w3.org/2000/01/rdf-schema#label> "World War II"@en .
+<http://dbpedia.org/resource/Category:Programming_languages> <http://www.w3.org/2000/01/rdf-schema#label> "Programming languages"@en .
+<http://dbpedia.org/resource/Category:Professional_wrestling> <http://www.w3.org/2000/01/rdf-schema#label> "Professional wrestling"@en .
+<http://dbpedia.org/resource/Category:Algebra> <http://www.w3.org/2000/01/rdf-schema#label> "Algebra"@en .
+<http://dbpedia.org/resource/Category:Anime> <http://www.w3.org/2000/01/rdf-schema#label> "Anime"@en .
+<http://dbpedia.org/resource/Category:Abstract_algebra> <http://www.w3.org/2000/01/rdf-schema#label> "Abstract algebra"@en .
+<http://dbpedia.org/resource/Category:Mathematics> <http://www.w3.org/2000/01/rdf-schema#label> "Mathematics"@en .
+<http://dbpedia.org/resource/Category:Linear_algebra> <http://www.w3.org/2000/01/rdf-schema#label> "Linear algebra"@en .
+<http://dbpedia.org/resource/Category:Calculus> <http://www.w3.org/2000/01/rdf-schema#label> "Calculus"@en .
+<http://dbpedia.org/resource/Category:Monarchs> <http://www.w3.org/2000/01/rdf-schema#label> "Monarchs"@en .
+<http://dbpedia.org/resource/Category:British_monarchs> <http://www.w3.org/2000/01/rdf-schema#label> "British monarchs"@en .
+<http://dbpedia.org/resource/Category:Star_Trek> <http://www.w3.org/2000/01/rdf-schema#label> "Star Trek"@en .
+<http://dbpedia.org/resource/Category:People> <http://www.w3.org/2000/01/rdf-schema#label> "People"@en .
+<http://dbpedia.org/resource/Category:Popes> <http://www.w3.org/2000/01/rdf-schema#label> "Popes"@en .
+<http://dbpedia.org/resource/Category:Desserts> <http://www.w3.org/2000/01/rdf-schema#label> "Desserts"@en .
+<http://dbpedia.org/resource/Category:Fruit> <http://www.w3.org/2000/01/rdf-schema#label> "Fruit"@en .
+<http://dbpedia.org/resource/Category:Lists> <http://www.w3.org/2000/01/rdf-schema#label> "Lists"@en .
+<http://dbpedia.org/resource/Category:Computer_science> <http://www.w3.org/2000/01/rdf-schema#label> "Computer science"@en .
+<http://dbpedia.org/resource/Category:The_Simpsons> <http://www.w3.org/2000/01/rdf-schema#label> "The Simpsons"@en .
+<http://dbpedia.org/resource/Category:Algorithms> <http://www.w3.org/2000/01/rdf-schema#label> "Algorithms"@en .
+<http://dbpedia.org/resource/Category:Data_structures> <http://www.w3.org/2000/01/rdf-schema#label> "Data structures"@en .
+<http://dbpedia.org/resource/Category:Monty_Python> <http://www.w3.org/2000/01/rdf-schema#label> "Monty Python"@en .
+<http://dbpedia.org/resource/Category:Middle-earth_places> <http://www.w3.org/2000/01/rdf-schema#label> "Middle-earth places"@en .
+<http://dbpedia.org/resource/Category:Middle-earth_characters> <http://www.w3.org/2000/01/rdf-schema#label> "Middle-earth characters"@en .
+<http://dbpedia.org/resource/Category:Middle-earth> <http://www.w3.org/2000/01/rdf-schema#label> "Middle-earth"@en .
+<http://dbpedia.org/resource/Category:Science> <http://www.w3.org/2000/01/rdf-schema#label> "Science"@en .
+# completed 2013-07-10T10:14:30Z

@@ -1,0 +1,448 @@
+<http://rdf.freebase.com/ns/m.05l_wqp>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>	.
+<http://rdf.freebase.com/ns/m.05l_wqp>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>	.
+<http://rdf.freebase.com/ns/m.05l_wqp>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.inanimate>	.
+<http://rdf.freebase.com/ns/m.05l_wqp>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.physically_instantiable>	.
+<http://rdf.freebase.com/ns/m.05l_wqp>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/wine.wine>	.
+<http://rdf.freebase.com/ns/m.05l_wqp>	<http://rdf.freebase.com/ns/wine.wine.vintage>	"1905-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	.
+<http://rdf.freebase.com/ns/m.05l_wqp>	<http://rdf.freebase.com/ns/common.topic.notable_for>	<http://rdf.freebase.com/ns/g.12582gdmh>	.
+<http://rdf.freebase.com/ns/m.05l_wqp>	<http://rdf.freebase.com/ns/common.topic.notable_types>	<http://rdf.freebase.com/ns/m.02ws9s5>	.
+<http://rdf.freebase.com/ns/m.05l_wqp>	<http://rdf.freebase.com/ns/type.object.name>	"1905 C. da Silva Port"@en	.
+<http://rdf.freebase.com/ns/m.05l_wqp>	<http://rdf.freebase.com/ns/type.object.key>	"/en/1905_c_da_silva_port"	.
+<http://rdf.freebase.com/ns/m.05l_wqp>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/business.consumer_product>	.
+<http://rdf.freebase.com/ns/m.05l_wqp>	<http://rdf.freebase.com/key/en>	"1905_c_da_silva_port"	.
+<http://rdf.freebase.com/ns/m.05l_wqp>	<http://www.w3.org/2000/01/rdf-schema#label>	"1905 C. da Silva Port"@en	.
+<http://rdf.freebase.com/ns/m.05l_wqp>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>	.
+<http://rdf.freebase.com/ns/m.05l_wqp>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>	.
+<http://rdf.freebase.com/ns/m.05l_wqp>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.inanimate>	.
+<http://rdf.freebase.com/ns/m.05l_wqp>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.physically_instantiable>	.
+<http://rdf.freebase.com/ns/m.05l_wqp>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/wine.wine>	.
+<http://rdf.freebase.com/ns/m.05l_wqp>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/business.consumer_product>	.
+<http://rdf.freebase.com/ns/m.05l_yvc>	<http://rdf.freebase.com/ns/type.content_import.uri>	<http://upload.wikimedia.org/wikipedia/commons/9/9b/Benzene.png>	.
+<http://rdf.freebase.com/ns/m.05l_yvc>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05l_yvc>	<http://rdf.freebase.com/ns/type.content_import.content>	<http://rdf.freebase.com/ns/m.05l_yv3>	.
+<http://rdf.freebase.com/ns/m.05l_yvc>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05lb0p_>	<http://rdf.freebase.com/ns/type.content.uploaded_by>	<http://rdf.freebase.com/ns/m.04kc5_p>	.
+<http://rdf.freebase.com/ns/m.05lb0p_>	<http://rdf.freebase.com/ns/type.content.length>	"586"	.
+<http://rdf.freebase.com/ns/m.05lb0p_>	<http://rdf.freebase.com/ns/type.content.media_type>	<http://rdf.freebase.com/ns/m.09gn>	.
+<http://rdf.freebase.com/ns/m.05lb0p_>	<http://rdf.freebase.com/ns/type.content.blob_id>	"843076bda39ea463a7970c6e253f04f3ce80095b1f51cd108215c09ce3a9a9b0"	.
+<http://rdf.freebase.com/ns/m.05lb0p_>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05lb0p_>	<http://rdf.freebase.com/ns/type.content.text_encoding>	<http://rdf.freebase.com/ns/m.0g4g>	.
+<http://rdf.freebase.com/ns/m.05lb0p_>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05lb707>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05lb707>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/images/commons_id/4635323"	.
+<http://rdf.freebase.com/ns/m.05lb707>	<http://rdf.freebase.com/ns/type.content.media_type>	<http://rdf.freebase.com/ns/m.08x8>	.
+<http://rdf.freebase.com/ns/m.05lb707>	<http://rdf.freebase.com/ns/common.image.rights_holder_text_attribution>	"Attributed to wikipedia user 青子守歌"@en	.
+<http://rdf.freebase.com/ns/m.05lb707>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.03mtv8h>	.
+<http://rdf.freebase.com/ns/m.05lb707>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.034jd>	.
+<http://rdf.freebase.com/ns/m.05lb707>	<http://rdf.freebase.com/ns/type.content.uploaded_by>	<http://rdf.freebase.com/ns/m.0220tm0>	.
+<http://rdf.freebase.com/ns/m.05lb707>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.03mth7t>	.
+<http://rdf.freebase.com/ns/m.05lb707>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.03mtdvv>	.
+<http://rdf.freebase.com/ns/m.05lb707>	<http://rdf.freebase.com/ns/type.content.source>	<http://rdf.freebase.com/ns/m.05lb70h>	.
+<http://rdf.freebase.com/ns/m.05lb707>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.03mtr_r>	.
+<http://rdf.freebase.com/ns/m.05lb707>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05lb707>	<http://rdf.freebase.com/ns/type.content.length>	"246476"	.
+<http://rdf.freebase.com/ns/m.05lb707>	<http://rdf.freebase.com/ns/common.image.appears_in_topic_gallery>	<http://rdf.freebase.com/ns/m.03cl4vr>	.
+<http://rdf.freebase.com/ns/m.05lb707>	<http://rdf.freebase.com/ns/type.object.name>	"Nobi Plain from Mt"@en	.
+<http://rdf.freebase.com/ns/m.05lb707>	<http://rdf.freebase.com/ns/type.content.blob_id>	"04d761a2516a93d25c120bd0d41df8ee0c585e93167eeab17a69fef95417f58f"	.
+<http://rdf.freebase.com/ns/m.05lb707>	<http://rdf.freebase.com/ns/common.image.size>	<http://rdf.freebase.com/ns/m.05lb70n>	.
+<http://rdf.freebase.com/ns/m.05lb707>	<http://rdf.freebase.com/ns/common.image.appears_in_topic_gallery>	<http://rdf.freebase.com/ns/m.04ycmft>	.
+<http://rdf.freebase.com/ns/m.05lb707>	<http://rdf.freebase.com/key/wikipedia.images.commons_id>	"4635323"	.
+<http://rdf.freebase.com/ns/m.05lb707>	<http://www.w3.org/2000/01/rdf-schema#label>	"Nobi Plain from Mt"@en	.
+<http://rdf.freebase.com/ns/m.05lb707>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05lb707>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05lb_f5>	<http://rdf.freebase.com/ns/type.content_import.content>	<http://rdf.freebase.com/ns/m.05lb_dy>	.
+<http://rdf.freebase.com/ns/m.05lb_f5>	<http://rdf.freebase.com/ns/type.content_import.uri>	<http://upload.wikimedia.org/wikipedia/commons/f/f5/Hovedinngang.jpg>	.
+<http://rdf.freebase.com/ns/m.05lb_f5>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05lb_f5>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05lbgkt>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05lbgkt>	<http://rdf.freebase.com/ns/type.content_import.uri>	<http://upload.wikimedia.org/wikipedia/en/d/d9/MagicBarrel.JPG>	.
+<http://rdf.freebase.com/ns/m.05lbgkt>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05lbhn>	<http://rdf.freebase.com/ns/common.document.text>	"Fernando Casado Arambillet (20 September 1917 – 9 March 1994), best known as Fernando Rey, was a Spanish film, theatre, and TV actor, who worked in both Europe and the United States. A suave, international actor best known for his roles in the films of surrealist director Luis Buñuel (Tristana, 1970; Discreet Charm of the Bourgeoisie, 1972; That Obscure Object of Desire, 1977) and as a drug lord in The French Connection (1971), he appeared in more than 150 films over half a century.\nThe debonair Rey was described by French Connection producer Philip D'Antoni as \"the last of the Continental guys\". He achieved his greatest notoriety after he turned 50: \"Perhaps it is a pity that my success came so late in life\", he told The Times of Madrid in 1973. \"It might have been better to have been successful while young, like El Cordobes in the bullring. Then your life is all before you to enjoy it.\"\nRey was born in La Coruña, Spain, the son of Captain Casado Veiga. He studied architecture, but the Spanish Civil War interrupted his university studies which led him to his success.\nIn 1936, Rey began his career in movies as an extra, sometimes even getting credited. It was then that he chose his"@en	.
+<http://rdf.freebase.com/ns/m.05lbhn>	<http://rdf.freebase.com/ns/common.document.source_uri>	<http://wp/en/1659117>	.
+<http://rdf.freebase.com/ns/m.05lbhn>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.document>	.
+<http://rdf.freebase.com/ns/m.05lbhn>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.document>	.
+<http://rdf.freebase.com/ns/m.05lbkh0>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.usergroup>	.
+<http://rdf.freebase.com/ns/m.05lbkh0>	<http://rdf.freebase.com/ns/type.object.permission>	<http://rdf.freebase.com/ns/m.039>	.
+<http://rdf.freebase.com/ns/m.05lbkh0>	<http://rdf.freebase.com/ns/type.object.name>	"tjgillies's private user group"@en	.
+<http://rdf.freebase.com/ns/m.05lbkh0>	<http://rdf.freebase.com/ns/type.usergroup.member>	<http://rdf.freebase.com/ns/m.05lbkgs>	.
+<http://rdf.freebase.com/ns/m.05lbkh0>	<http://www.w3.org/2000/01/rdf-schema#label>	"tjgillies's private user group"@en	.
+<http://rdf.freebase.com/ns/m.05lbkh0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.usergroup>	.
+<http://rdf.freebase.com/ns/m.05lbmyz>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05lbmyz>	<http://rdf.freebase.com/ns/type.content_import.content>	<http://rdf.freebase.com/ns/m.05lbmyq>	.
+<http://rdf.freebase.com/ns/m.05lbmyz>	<http://rdf.freebase.com/ns/type.content_import.uri>	<http://upload.wikimedia.org/wikipedia/commons/4/47/ER-Burgberg-1-summerhouse-angle.jpg>	.
+<http://rdf.freebase.com/ns/m.05lbmyz>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05lbn7x>	<http://rdf.freebase.com/ns/type.content.blob_id>	"43348dde2fa8ac91bfb78513c7fefed374225238d5e86571c2e8e534b82d54cc"	.
+<http://rdf.freebase.com/ns/m.05lbn7x>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05lbn7x>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.03mtr_r>	.
+<http://rdf.freebase.com/ns/m.05lbn7x>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05lbn7x>	<http://rdf.freebase.com/ns/type.object.name>	"Mucalinda shethering Gautama Buddha; Wall-Painting from monastery in Laos"@en	.
+<http://rdf.freebase.com/ns/m.05lbn7x>	<http://rdf.freebase.com/ns/common.image.size>	<http://rdf.freebase.com/ns/m.05lbn89>	.
+<http://rdf.freebase.com/ns/m.05lbn7x>	<http://rdf.freebase.com/ns/type.content.media_type>	<http://rdf.freebase.com/ns/m.08x8>	.
+<http://rdf.freebase.com/ns/m.05lbn7x>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.03mtv8h>	.
+<http://rdf.freebase.com/ns/m.05lbn7x>	<http://rdf.freebase.com/ns/type.content.length>	"776416"	.
+<http://rdf.freebase.com/ns/m.05lbn7x>	<http://rdf.freebase.com/ns/type.content.uploaded_by>	<http://rdf.freebase.com/ns/m.0220tm0>	.
+<http://rdf.freebase.com/ns/m.05lbn7x>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/images/commons_id/815455"	.
+<http://rdf.freebase.com/ns/m.05lbn7x>	<http://rdf.freebase.com/ns/type.content.source>	<http://rdf.freebase.com/ns/m.05lbn84>	.
+<http://rdf.freebase.com/ns/m.05lbn7x>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.034jd>	.
+<http://rdf.freebase.com/ns/m.05lbn7x>	<http://rdf.freebase.com/ns/common.image.rights_holder_text_attribution>	"myself"@en	.
+<http://rdf.freebase.com/ns/m.05lbn7x>	<http://rdf.freebase.com/ns/common.image.appears_in_topic_gallery>	<http://rdf.freebase.com/ns/m.0pdtn>	.
+<http://rdf.freebase.com/ns/m.05lbn7x>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.03mth7t>	.
+<http://rdf.freebase.com/ns/m.05lbn7x>	<http://rdf.freebase.com/key/wikipedia.images.commons_id>	"815455"	.
+<http://rdf.freebase.com/ns/m.05lbn7x>	<http://www.w3.org/2000/01/rdf-schema#label>	"Mucalinda shethering Gautama Buddha; Wall-Painting from monastery in Laos"@en	.
+<http://rdf.freebase.com/ns/m.05lbn7x>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05lbn7x>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05lbq6f>	<http://rdf.freebase.com/ns/type.content_import.content>	<http://rdf.freebase.com/ns/m.05lbq65>	.
+<http://rdf.freebase.com/ns/m.05lbq6f>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05lbq6f>	<http://rdf.freebase.com/ns/type.content_import.uri>	<http://upload.wikimedia.org/wikipedia/commons/6/6a/Xindian-Station.JPG>	.
+<http://rdf.freebase.com/ns/m.05lbq6f>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05lbrvw>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05lbrvw>	<http://rdf.freebase.com/ns/type.content_import.uri>	<http://upload.wikimedia.org/wikipedia/commons/7/7f/Nishi-kiga_stn.jpg>	.
+<http://rdf.freebase.com/ns/m.05lbrvw>	<http://rdf.freebase.com/ns/type.content_import.content>	<http://rdf.freebase.com/ns/m.05lbrvm>	.
+<http://rdf.freebase.com/ns/m.05lbrvw>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05lc2th>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05lc2th>	<http://rdf.freebase.com/ns/type.content_import.uri>	<http://upload.wikimedia.org/wikipedia/en/8/84/SelenaDosHistorias.jpg>	.
+<http://rdf.freebase.com/ns/m.05lc2th>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05lc404>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/measurement_unit.rect_size>	.
+<http://rdf.freebase.com/ns/m.05lc404>	<http://rdf.freebase.com/ns/measurement_unit.rect_size.y>	"418.0"	.
+<http://rdf.freebase.com/ns/m.05lc404>	<http://rdf.freebase.com/ns/measurement_unit.rect_size.x>	"443.0"	.
+<http://rdf.freebase.com/ns/m.05lc404>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/measurement_unit.rect_size>	.
+<http://rdf.freebase.com/ns/m.05lc5zc>	<http://rdf.freebase.com/ns/type.object.name>	"28 St BMT ID tile jeh"@en	.
+<http://rdf.freebase.com/ns/m.05lc5zc>	<http://rdf.freebase.com/ns/common.image.appears_in_topic_gallery>	<http://rdf.freebase.com/ns/m.0dl1yl>	.
+<http://rdf.freebase.com/ns/m.05lc5zc>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/images/commons_id/4895840"	.
+<http://rdf.freebase.com/ns/m.05lc5zc>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05lc5zc>	<http://rdf.freebase.com/ns/type.content.blob_id>	"2c3430dca8bca9e5e6da3f764257b0434860c6c2a27115401e5497587d84252d"	.
+<http://rdf.freebase.com/ns/m.05lc5zc>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05lc5zc>	<http://www.w3.org/2000/01/rdf-schema#label>	"28 St BMT ID tile jeh"@en	.
+<http://rdf.freebase.com/ns/m.05lc5zc>	<http://rdf.freebase.com/ns/type.content.uploaded_by>	<http://rdf.freebase.com/ns/m.0220tm0>	.
+<http://rdf.freebase.com/ns/m.05lc5zc>	<http://rdf.freebase.com/ns/type.content.source>	<http://rdf.freebase.com/ns/m.05lc5zm>	.
+<http://rdf.freebase.com/ns/m.05lc5zc>	<http://rdf.freebase.com/ns/type.content.media_type>	<http://rdf.freebase.com/ns/m.08x8>	.
+<http://rdf.freebase.com/ns/m.05lc5zc>	<http://rdf.freebase.com/ns/common.image.size>	<http://rdf.freebase.com/ns/m.05lc5zs>	.
+<http://rdf.freebase.com/ns/m.05lc5zc>	<http://rdf.freebase.com/ns/type.content.length>	"344773"	.
+<http://rdf.freebase.com/ns/m.05lc5zc>	<http://rdf.freebase.com/ns/common.image.rights_holder_text_attribution>	"Attributed to wikipedia user Jim.henderson"@en	.
+<http://rdf.freebase.com/ns/m.05lc5zc>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.05smz>	.
+<http://rdf.freebase.com/ns/m.05lc5zc>	<http://rdf.freebase.com/key/wikipedia.images.commons_id>	"4895840"	.
+<http://rdf.freebase.com/ns/m.05lc5zc>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05lc5zc>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05lc7w2>	<http://rdf.freebase.com/ns/common.image.rights_holder_text_attribution>	"Jerzy Opioła"@en	.
+<http://rdf.freebase.com/ns/m.05lc7w2>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.03mtdvv>	.
+<http://rdf.freebase.com/ns/m.05lc7w2>	<http://rdf.freebase.com/ns/type.content.length>	"391495"	.
+<http://rdf.freebase.com/ns/m.05lc7w2>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.03mtr_r>	.
+<http://rdf.freebase.com/ns/m.05lc7w2>	<http://rdf.freebase.com/ns/type.content.source>	<http://rdf.freebase.com/ns/m.05lc7wb>	.
+<http://rdf.freebase.com/ns/m.05lc7w2>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.03mth7t>	.
+<http://rdf.freebase.com/ns/m.05lc7w2>	<http://rdf.freebase.com/ns/type.content.media_type>	<http://rdf.freebase.com/ns/m.08x8>	.
+<http://rdf.freebase.com/ns/m.05lc7w2>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.03mtv8h>	.
+<http://rdf.freebase.com/ns/m.05lc7w2>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/images/commons_id/4147811"	.
+<http://rdf.freebase.com/ns/m.05lc7w2>	<http://rdf.freebase.com/ns/type.object.name>	"Limnophila aquatica a1"@en	.
+<http://rdf.freebase.com/ns/m.05lc7w2>	<http://rdf.freebase.com/ns/common.image.size>	<http://rdf.freebase.com/ns/m.02d0_9r>	.
+<http://rdf.freebase.com/ns/m.05lc7w2>	<http://rdf.freebase.com/ns/type.content.uploaded_by>	<http://rdf.freebase.com/ns/m.0220tm0>	.
+<http://rdf.freebase.com/ns/m.05lc7w2>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.034jd>	.
+<http://rdf.freebase.com/ns/m.05lc7w2>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05lc7w2>	<http://rdf.freebase.com/ns/type.content.blob_id>	"57dbdad58976c24f0e9d01967e6abd430adddfb71f6e6d80ef5bcc10c6847c89"	.
+<http://rdf.freebase.com/ns/m.05lc7w2>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05lc7w2>	<http://rdf.freebase.com/ns/common.image.appears_in_topic_gallery>	<http://rdf.freebase.com/ns/m.02pjjvh>	.
+<http://rdf.freebase.com/ns/m.05lc7w2>	<http://rdf.freebase.com/key/wikipedia.images.commons_id>	"4147811"	.
+<http://rdf.freebase.com/ns/m.05lc7w2>	<http://www.w3.org/2000/01/rdf-schema#label>	"Limnophila aquatica a1"@en	.
+<http://rdf.freebase.com/ns/m.05lc7w2>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05lc7w2>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05lc9ry>	<http://rdf.freebase.com/ns/measurement_unit.rect_size.y>	"2628.0"	.
+<http://rdf.freebase.com/ns/m.05lc9ry>	<http://rdf.freebase.com/ns/measurement_unit.rect_size.x>	"1752.0"	.
+<http://rdf.freebase.com/ns/m.05lc9ry>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/measurement_unit.rect_size>	.
+<http://rdf.freebase.com/ns/m.05lc9ry>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/measurement_unit.rect_size>	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/type.object.key>	"/en/greenwood_railway_station_perth"	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/common.topic.notable_for>	<http://rdf.freebase.com/ns/g.125529mhq>	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.inanimate>	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/type.object.name>	"Greenwood railway station"@en	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/location.location.containedby>	<http://rdf.freebase.com/ns/m.062qg>	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/common.topic.image>	<http://rdf.freebase.com/ns/m.02fjxtd>	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/Greenwood_railway_station"	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/Greenwood_railway_station$002C_Perth"	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/common.topic.description>	"Greenwood Station is a Transperth railway station located 17.8 kilometres north-northwest of Perth railway station in Western Australia, on the Joondalup Line."@en	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/common.topic.notable_types>	<http://rdf.freebase.com/ns/m.02h7d95>	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en_id/1659378"	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/location.location.geolocation>	<http://rdf.freebase.com/ns/m.02_s7hw>	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/metropolitan_transit.transit_stop>	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en_title/Greenwood_railway_station"	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/metropolitan_transit.transit_stop.transit_lines>	<http://rdf.freebase.com/ns/m.05h3jx>	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://en.wikipedia.org/wiki/index.html?curid=1659378>	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://en.wikipedia.org/wiki/Greenwood_railway_station>	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/location.location>	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/common.topic.image>	<http://rdf.freebase.com/ns/m.0bn2cqb>	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/common.topic.article>	<http://rdf.freebase.com/ns/m.05lcbj>	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/base.type_ontology.physically_instantiable>	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/key/en>	"greenwood_railway_station_perth"	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/key/wikipedia.en_id>	"1659378"	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/key/wikipedia.en>	"Greenwood_railway_station$002C_Perth"	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/key/wikipedia.en_title>	"Greenwood_railway_station"	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://rdf.freebase.com/key/wikipedia.en>	"Greenwood_railway_station"	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://www.w3.org/2000/01/rdf-schema#label>	"Greenwood railway station"@en	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.non_agent>	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.inanimate>	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/metropolitan_transit.transit_stop>	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/location.location>	.
+<http://rdf.freebase.com/ns/m.05lcbc>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/base.type_ontology.physically_instantiable>	.
+<http://rdf.freebase.com/ns/m.05lcczt>	<http://rdf.freebase.com/ns/type.content_import.content>	<http://rdf.freebase.com/ns/m.05lcczk>	.
+<http://rdf.freebase.com/ns/m.05lcczt>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05lcczt>	<http://rdf.freebase.com/ns/type.content_import.uri>	<http://upload.wikimedia.org/wikipedia/commons/6/67/GRB_080913.jpg>	.
+<http://rdf.freebase.com/ns/m.05lcczt>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05lchjc>	<http://rdf.freebase.com/ns/common.image.appears_in_topic_gallery>	<http://rdf.freebase.com/ns/m.03bzcrt>	.
+<http://rdf.freebase.com/ns/m.05lchjc>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.034jd>	.
+<http://rdf.freebase.com/ns/m.05lchjc>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05lchjc>	<http://rdf.freebase.com/ns/type.object.name>	"Symbol of the People's Solidarity."@en	.
+<http://rdf.freebase.com/ns/m.05lchjc>	<http://rdf.freebase.com/ns/type.content.source>	<http://rdf.freebase.com/ns/m.05lchjm>	.
+<http://rdf.freebase.com/ns/m.05lchjc>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/images/commons_id/2953944"	.
+<http://rdf.freebase.com/ns/m.05lchjc>	<http://rdf.freebase.com/ns/type.content.length>	"68495"	.
+<http://rdf.freebase.com/ns/m.05lchjc>	<http://rdf.freebase.com/ns/type.content.media_type>	<http://rdf.freebase.com/ns/m.08x8>	.
+<http://rdf.freebase.com/ns/m.05lchjc>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05lchjc>	<http://rdf.freebase.com/ns/type.content.blob_id>	"58575f964dce417b185cf2ff3b65f1e9d20c37d6d969c90e3fddb7c021fecfff"	.
+<http://rdf.freebase.com/ns/m.05lchjc>	<http://rdf.freebase.com/ns/type.content.uploaded_by>	<http://rdf.freebase.com/ns/m.0220tm0>	.
+<http://rdf.freebase.com/ns/m.05lchjc>	<http://rdf.freebase.com/ns/common.image.rights_holder_text_attribution>	"Manfred E. Fritsche"@en	.
+<http://rdf.freebase.com/ns/m.05lchjc>	<http://rdf.freebase.com/ns/common.image.size>	<http://rdf.freebase.com/ns/m.03r2q2p>	.
+<http://rdf.freebase.com/ns/m.05lchjc>	<http://rdf.freebase.com/key/wikipedia.images.commons_id>	"2953944"	.
+<http://rdf.freebase.com/ns/m.05lchjc>	<http://www.w3.org/2000/01/rdf-schema#label>	"Symbol of the People's Solidarity."@en	.
+<http://rdf.freebase.com/ns/m.05lchjc>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05lchjc>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05lclxv>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05lclxv>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05lclxv>	<http://rdf.freebase.com/ns/common.image.appears_in_topic_gallery>	<http://rdf.freebase.com/ns/m.05j9hq>	.
+<http://rdf.freebase.com/ns/m.05lclxv>	<http://rdf.freebase.com/ns/type.content.media_type>	<http://rdf.freebase.com/ns/m.08x8>	.
+<http://rdf.freebase.com/ns/m.05lclxv>	<http://rdf.freebase.com/ns/common.image.size>	<http://rdf.freebase.com/ns/m.0291c4x>	.
+<http://rdf.freebase.com/ns/m.05lclxv>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.034jd>	.
+<http://rdf.freebase.com/ns/m.05lclxv>	<http://rdf.freebase.com/ns/type.content.source>	<http://rdf.freebase.com/ns/m.05lcly2>	.
+<http://rdf.freebase.com/ns/m.05lclxv>	<http://rdf.freebase.com/ns/type.content.uploaded_by>	<http://rdf.freebase.com/ns/m.0220tm0>	.
+<http://rdf.freebase.com/ns/m.05lclxv>	<http://rdf.freebase.com/ns/type.object.name>	"Jose Guadalupe Guzman"@en	.
+<http://rdf.freebase.com/ns/m.05lclxv>	<http://rdf.freebase.com/ns/common.image.rights_holder_text_attribution>	"Attributed to wikipedia user Jmabel"@en	.
+<http://rdf.freebase.com/ns/m.05lclxv>	<http://rdf.freebase.com/ns/type.content.blob_id>	"5390a9fc636e267c02ad5533dfcf136b47550522ac28908a97b26ee25a544b58"	.
+<http://rdf.freebase.com/ns/m.05lclxv>	<http://rdf.freebase.com/ns/type.content.length>	"2183505"	.
+<http://rdf.freebase.com/ns/m.05lclxv>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/images/commons_id/4469680"	.
+<http://rdf.freebase.com/ns/m.05lclxv>	<http://rdf.freebase.com/key/wikipedia.images.commons_id>	"4469680"	.
+<http://rdf.freebase.com/ns/m.05lclxv>	<http://www.w3.org/2000/01/rdf-schema#label>	"Jose Guadalupe Guzman"@en	.
+<http://rdf.freebase.com/ns/m.05lclxv>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05lclxv>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05lcnpy>	<http://rdf.freebase.com/ns/location.geocode.longitude>	"-63.385903"	.
+<http://rdf.freebase.com/ns/m.05lcnpy>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/location.geocode>	.
+<http://rdf.freebase.com/ns/m.05lcnpy>	<http://rdf.freebase.com/ns/location.geocode.latitude>	"44.740103"	.
+<http://rdf.freebase.com/ns/m.05lcnpy>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/location.geocode>	.
+<http://rdf.freebase.com/ns/m.05lcqdy>	<http://rdf.freebase.com/ns/type.content_import.uri>	<http://upload.wikimedia.org/wikipedia/en/1/16/Long_Goodbye_A_Tribute_to_Don_Pullen.jpg>	.
+<http://rdf.freebase.com/ns/m.05lcqdy>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05lcqdy>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05lcwx_>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/measurement_unit.rect_size>	.
+<http://rdf.freebase.com/ns/m.05lcwx_>	<http://rdf.freebase.com/ns/measurement_unit.rect_size.x>	"1078.0"	.
+<http://rdf.freebase.com/ns/m.05lcwx_>	<http://rdf.freebase.com/ns/measurement_unit.rect_size.y>	"626.0"	.
+<http://rdf.freebase.com/ns/m.05lcwx_>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/measurement_unit.rect_size>	.
+<http://rdf.freebase.com/ns/m.05lcx46>	<http://rdf.freebase.com/ns/measurement_unit.rect_size.y>	"1072.0"	.
+<http://rdf.freebase.com/ns/m.05lcx46>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/measurement_unit.rect_size>	.
+<http://rdf.freebase.com/ns/m.05lcx46>	<http://rdf.freebase.com/ns/measurement_unit.rect_size.x>	"1818.0"	.
+<http://rdf.freebase.com/ns/m.05lcx46>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/measurement_unit.rect_size>	.
+<http://rdf.freebase.com/ns/m.05lcxy8>	<http://rdf.freebase.com/ns/type.content.source>	<http://rdf.freebase.com/ns/m.05lcxyj>	.
+<http://rdf.freebase.com/ns/m.05lcxy8>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05lcxy8>	<http://rdf.freebase.com/ns/common.image.size>	<http://rdf.freebase.com/ns/m.01x3b9_>	.
+<http://rdf.freebase.com/ns/m.05lcxy8>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.03mtr_r>	.
+<http://rdf.freebase.com/ns/m.05lcxy8>	<http://rdf.freebase.com/ns/common.image.rights_holder_text_attribution>	"Christoph von Bartkowski"@en	.
+<http://rdf.freebase.com/ns/m.05lcxy8>	<http://rdf.freebase.com/ns/type.content.media_type>	<http://rdf.freebase.com/ns/m.08x8>	.
+<http://rdf.freebase.com/ns/m.05lcxy8>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.03mtv8h>	.
+<http://rdf.freebase.com/ns/m.05lcxy8>	<http://rdf.freebase.com/ns/type.object.name>	"Zawadzki Coat of Arms"@en	.
+<http://rdf.freebase.com/ns/m.05lcxy8>	<http://rdf.freebase.com/ns/type.content.length>	"34773"	.
+<http://rdf.freebase.com/ns/m.05lcxy8>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05lcxy8>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.03mth7t>	.
+<http://rdf.freebase.com/ns/m.05lcxy8>	<http://rdf.freebase.com/ns/common.image.appears_in_topic_gallery>	<http://rdf.freebase.com/ns/m.02r2q2x>	.
+<http://rdf.freebase.com/ns/m.05lcxy8>	<http://rdf.freebase.com/ns/type.content.blob_id>	"2398cceaa64752d366029e1253d2b739abf534f6fc1f0db4c415476b17088a9d"	.
+<http://rdf.freebase.com/ns/m.05lcxy8>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.034jd>	.
+<http://rdf.freebase.com/ns/m.05lcxy8>	<http://rdf.freebase.com/ns/type.content.uploaded_by>	<http://rdf.freebase.com/ns/m.0220tm0>	.
+<http://rdf.freebase.com/ns/m.05lcxy8>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/images/commons_id/1406410"	.
+<http://rdf.freebase.com/ns/m.05lcxy8>	<http://rdf.freebase.com/key/wikipedia.images.commons_id>	"1406410"	.
+<http://rdf.freebase.com/ns/m.05lcxy8>	<http://www.w3.org/2000/01/rdf-schema#label>	"Zawadzki Coat of Arms"@en	.
+<http://rdf.freebase.com/ns/m.05lcxy8>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05lcxy8>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05ld0_x>	<http://rdf.freebase.com/ns/common.image.rights_holder_text_attribution>	"Attributed to flickr user Andrea Mora Rinaldi"@en	.
+<http://rdf.freebase.com/ns/m.05ld0_x>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.03mskgc>	.
+<http://rdf.freebase.com/ns/m.05ld0_x>	<http://rdf.freebase.com/ns/type.object.name>	"Front of the Zoé"@en	.
+<http://rdf.freebase.com/ns/m.05ld0_x>	<http://rdf.freebase.com/ns/type.content.uploaded_by>	<http://rdf.freebase.com/ns/m.0220tm0>	.
+<http://rdf.freebase.com/ns/m.05ld0_x>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05ld0_x>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05ld0_x>	<http://rdf.freebase.com/ns/type.content.source>	<http://rdf.freebase.com/ns/m.05ld104>	.
+<http://rdf.freebase.com/ns/m.05ld0_x>	<http://rdf.freebase.com/key/wikipedia.images.commons_id>	"3835601"	.
+<http://rdf.freebase.com/ns/m.05ld0_x>	<http://rdf.freebase.com/ns/type.content.blob_id>	"2e0baba92495850ef46c5c850678987bd9d4de3fe800788487ca9343014fa12e"	.
+<http://rdf.freebase.com/ns/m.05ld0_x>	<http://rdf.freebase.com/ns/common.image.appears_in_topic_gallery>	<http://rdf.freebase.com/ns/m.03yd_br>	.
+<http://rdf.freebase.com/ns/m.05ld0_x>	<http://rdf.freebase.com/ns/common.image.size>	<http://rdf.freebase.com/ns/m.041w4fr>	.
+<http://rdf.freebase.com/ns/m.05ld0_x>	<http://rdf.freebase.com/ns/type.content.media_type>	<http://rdf.freebase.com/ns/m.08x8>	.
+<http://rdf.freebase.com/ns/m.05ld0_x>	<http://rdf.freebase.com/ns/type.content.length>	"236452"	.
+<http://rdf.freebase.com/ns/m.05ld0_x>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/images/commons_id/3835601"	.
+<http://rdf.freebase.com/ns/m.05ld0_x>	<http://www.w3.org/2000/01/rdf-schema#label>	"Front of the Zoé"@en	.
+<http://rdf.freebase.com/ns/m.05ld0_x>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05ld0_x>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05ld4hj>	<http://rdf.freebase.com/ns/type.content.uploaded_by>	<http://rdf.freebase.com/ns/m.0220tm0>	.
+<http://rdf.freebase.com/ns/m.05ld4hj>	<http://rdf.freebase.com/ns/common.image.appears_in_topic_gallery>	<http://rdf.freebase.com/ns/m.02hrtn>	.
+<http://rdf.freebase.com/ns/m.05ld4hj>	<http://rdf.freebase.com/ns/type.content.blob_id>	"7c3c056fd1dd5bdca8c9cad8705c6322dee36117c6c58d4792807fed738c74a1"	.
+<http://rdf.freebase.com/ns/m.05ld4hj>	<http://rdf.freebase.com/ns/type.content.media_type>	<http://rdf.freebase.com/ns/m.08x8>	.
+<http://rdf.freebase.com/ns/m.05ld4hj>	<http://rdf.freebase.com/ns/common.image.rights_holder_text_attribution>	"Attributed to wikipedia user JonThor"@en	.
+<http://rdf.freebase.com/ns/m.05ld4hj>	<http://rdf.freebase.com/ns/type.content.length>	"76941"	.
+<http://rdf.freebase.com/ns/m.05ld4hj>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05ld4hj>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05ld4hj>	<http://rdf.freebase.com/ns/common.image.size>	<http://rdf.freebase.com/ns/m.01y0r3v>	.
+<http://rdf.freebase.com/ns/m.05ld4hj>	<http://rdf.freebase.com/ns/type.content.source>	<http://rdf.freebase.com/ns/m.05ld4hs>	.
+<http://rdf.freebase.com/ns/m.05ld4hj>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.05smz>	.
+<http://rdf.freebase.com/ns/m.05ld4hj>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/images/commons_id/4828158"	.
+<http://rdf.freebase.com/ns/m.05ld4hj>	<http://rdf.freebase.com/ns/type.object.name>	"Ye Jiangchuan"@en	.
+<http://rdf.freebase.com/ns/m.05ld4hj>	<http://rdf.freebase.com/key/wikipedia.images.commons_id>	"4828158"	.
+<http://rdf.freebase.com/ns/m.05ld4hj>	<http://www.w3.org/2000/01/rdf-schema#label>	"Ye Jiangchuan"@en	.
+<http://rdf.freebase.com/ns/m.05ld4hj>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05ld4hj>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05ld4sv>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.03mskgc>	.
+<http://rdf.freebase.com/ns/m.05ld4sv>	<http://rdf.freebase.com/ns/common.image.appears_in_topic_gallery>	<http://rdf.freebase.com/ns/m.05c08v_>	.
+<http://rdf.freebase.com/ns/m.05ld4sv>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/images/commons_id/5545731"	.
+<http://rdf.freebase.com/ns/m.05ld4sv>	<http://rdf.freebase.com/ns/type.content.source>	<http://rdf.freebase.com/ns/m.05ld4t2>	.
+<http://rdf.freebase.com/ns/m.05ld4sv>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05ld4sv>	<http://rdf.freebase.com/ns/type.content.length>	"745370"	.
+<http://rdf.freebase.com/ns/m.05ld4sv>	<http://rdf.freebase.com/ns/type.object.name>	"Leucania uda"@en	.
+<http://rdf.freebase.com/ns/m.05ld4sv>	<http://rdf.freebase.com/ns/type.content.blob_id>	"86499c7b348ea9965c7821ddb28cfb35b2b2862e5768d719e3bc548586235355"	.
+<http://rdf.freebase.com/ns/m.05ld4sv>	<http://rdf.freebase.com/ns/type.content.uploaded_by>	<http://rdf.freebase.com/ns/m.0220tm0>	.
+<http://rdf.freebase.com/ns/m.05ld4sv>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05ld4sv>	<http://rdf.freebase.com/ns/type.content.media_type>	<http://rdf.freebase.com/ns/m.08x8>	.
+<http://rdf.freebase.com/ns/m.05ld4sv>	<http://rdf.freebase.com/ns/common.image.rights_holder_text_attribution>	"dhobern"@en	.
+<http://rdf.freebase.com/ns/m.05ld4sv>	<http://rdf.freebase.com/ns/common.image.size>	<http://rdf.freebase.com/ns/m.05ld4t7>	.
+<http://rdf.freebase.com/ns/m.05ld4sv>	<http://rdf.freebase.com/key/wikipedia.images.commons_id>	"5545731"	.
+<http://rdf.freebase.com/ns/m.05ld4sv>	<http://www.w3.org/2000/01/rdf-schema#label>	"Leucania uda"@en	.
+<http://rdf.freebase.com/ns/m.05ld4sv>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05ld4sv>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05ld543>	<http://rdf.freebase.com/ns/type.content.uploaded_by>	<http://rdf.freebase.com/ns/m.0220tm0>	.
+<http://rdf.freebase.com/ns/m.05ld543>	<http://rdf.freebase.com/key/wikipedia.images.commons_id>	"5037411"	.
+<http://rdf.freebase.com/ns/m.05ld543>	<http://rdf.freebase.com/ns/common.image.rights_holder_text_attribution>	"Thomas Whitcombe (British, born circa 1760-died circa 1824)"@en	.
+<http://rdf.freebase.com/ns/m.05ld543>	<http://rdf.freebase.com/ns/common.image.appears_in_topic_gallery>	<http://rdf.freebase.com/ns/m.03vrgp>	.
+<http://rdf.freebase.com/ns/m.05ld543>	<http://rdf.freebase.com/ns/type.content.media_type>	<http://rdf.freebase.com/ns/m.08x8>	.
+<http://rdf.freebase.com/ns/m.05ld543>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.05smz>	.
+<http://rdf.freebase.com/ns/m.05ld543>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/images/commons_id/5037411"	.
+<http://rdf.freebase.com/ns/m.05ld543>	<http://rdf.freebase.com/ns/common.image.appears_in_topic_gallery>	<http://rdf.freebase.com/ns/m.0479rgq>	.
+<http://rdf.freebase.com/ns/m.05ld543>	<http://rdf.freebase.com/ns/type.content.source>	<http://rdf.freebase.com/ns/m.05ld54c>	.
+<http://rdf.freebase.com/ns/m.05ld543>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05ld543>	<http://rdf.freebase.com/ns/type.content.length>	"32553"	.
+<http://rdf.freebase.com/ns/m.05ld543>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05ld543>	<http://rdf.freebase.com/ns/type.content.blob_id>	"d7e3e38125878ed5fb2153853d4c44254158885fd4c9d3b54f96245cf99c6977"	.
+<http://rdf.freebase.com/ns/m.05ld543>	<http://rdf.freebase.com/ns/common.image.size>	<http://rdf.freebase.com/ns/m.02gn8m8>	.
+<http://rdf.freebase.com/ns/m.05ld543>	<http://rdf.freebase.com/ns/type.object.name>	"HMS Galatea 65396"@en	.
+<http://rdf.freebase.com/ns/m.05ld543>	<http://www.w3.org/2000/01/rdf-schema#label>	"HMS Galatea 65396"@en	.
+<http://rdf.freebase.com/ns/m.05ld543>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05ld543>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05ld5lg>	<http://rdf.freebase.com/ns/type.content_import.content>	<http://rdf.freebase.com/ns/m.05ld5l6>	.
+<http://rdf.freebase.com/ns/m.05ld5lg>	<http://rdf.freebase.com/ns/type.content_import.uri>	<http://upload.wikimedia.org/wikipedia/commons/b/b3/Altar.jpg>	.
+<http://rdf.freebase.com/ns/m.05ld5lg>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05ld5lg>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05ld6h9>	<http://rdf.freebase.com/ns/type.content_import.uri>	<http://upload.wikimedia.org/wikipedia/commons/c/c0/Muggen.jpg>	.
+<http://rdf.freebase.com/ns/m.05ld6h9>	<http://rdf.freebase.com/ns/type.content_import.content>	<http://rdf.freebase.com/ns/m.05ld6h1>	.
+<http://rdf.freebase.com/ns/m.05ld6h9>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05ld6h9>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05ld6p6>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05ld6p6>	<http://rdf.freebase.com/ns/type.content_import.uri>	<http://upload.wikimedia.org/wikipedia/commons/c/c4/Cao_Guojiu.jpg>	.
+<http://rdf.freebase.com/ns/m.05ld6p6>	<http://rdf.freebase.com/ns/type.content_import.content>	<http://rdf.freebase.com/ns/m.05ld6nz>	.
+<http://rdf.freebase.com/ns/m.05ld6p6>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05ld6yn>	<http://rdf.freebase.com/ns/type.content_import.content>	<http://rdf.freebase.com/ns/m.05ld6yd>	.
+<http://rdf.freebase.com/ns/m.05ld6yn>	<http://rdf.freebase.com/ns/type.content_import.uri>	<http://upload.wikimedia.org/wikipedia/commons/c/c7/Typical_signature_of_Kikugawa_Eizan_reading_Kikugawa_Eizan_hitsu.jpg>	.
+<http://rdf.freebase.com/ns/m.05ld6yn>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05ld6yn>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05ld7yf>	<http://rdf.freebase.com/ns/type.content_import.uri>	<http://upload.wikimedia.org/wikipedia/commons/d/d7/Veelb%25C3%25B6ken_in_NWM.PNG>	.
+<http://rdf.freebase.com/ns/m.05ld7yf>	<http://rdf.freebase.com/ns/type.content_import.content>	<http://rdf.freebase.com/ns/m.05ld7y4>	.
+<http://rdf.freebase.com/ns/m.05ld7yf>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05ld7yf>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05ld8h1>	<http://rdf.freebase.com/ns/type.content.uploaded_by>	<http://rdf.freebase.com/ns/m.0220tm0>	.
+<http://rdf.freebase.com/ns/m.05ld8h1>	<http://rdf.freebase.com/ns/common.image.size>	<http://rdf.freebase.com/ns/m.029xrwg>	.
+<http://rdf.freebase.com/ns/m.05ld8h1>	<http://rdf.freebase.com/ns/common.image.rights_holder_text_attribution>	"Attributed to wikipedia user Fenderi"@en	.
+<http://rdf.freebase.com/ns/m.05ld8h1>	<http://rdf.freebase.com/ns/common.image.appears_in_topic_gallery>	<http://rdf.freebase.com/ns/m.07ckh6>	.
+<http://rdf.freebase.com/ns/m.05ld8h1>	<http://rdf.freebase.com/ns/type.content.media_type>	<http://rdf.freebase.com/ns/m.08x8>	.
+<http://rdf.freebase.com/ns/m.05ld8h1>	<http://rdf.freebase.com/ns/type.object.name>	"JosÃ© Pekerman Deportivo Toluca 2007"@en	.
+<http://rdf.freebase.com/ns/m.05ld8h1>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/images/commons_id/3834765"	.
+<http://rdf.freebase.com/ns/m.05ld8h1>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05ld8h1>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05ld8h1>	<http://rdf.freebase.com/ns/type.content.source>	<http://rdf.freebase.com/ns/m.05ld8h9>	.
+<http://rdf.freebase.com/ns/m.05ld8h1>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.034jd>	.
+<http://rdf.freebase.com/ns/m.05ld8h1>	<http://rdf.freebase.com/ns/type.content.blob_id>	"bc958c1fbeffe2dfdaa04c1289b78e6b54ff755d86737e8fdc2394e3b8872dc8"	.
+<http://rdf.freebase.com/ns/m.05ld8h1>	<http://rdf.freebase.com/ns/type.content.length>	"9795"	.
+<http://rdf.freebase.com/ns/m.05ld8h1>	<http://rdf.freebase.com/key/wikipedia.images.commons_id>	"3834765"	.
+<http://rdf.freebase.com/ns/m.05ld8h1>	<http://www.w3.org/2000/01/rdf-schema#label>	"JosÃ© Pekerman Deportivo Toluca 2007"@en	.
+<http://rdf.freebase.com/ns/m.05ld8h1>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05ld8h1>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05lddvr>	<http://rdf.freebase.com/ns/type.content_import.uri>	<http://upload.wikimedia.org/wikipedia/en/6/60/Smithson.jpg>	.
+<http://rdf.freebase.com/ns/m.05lddvr>	<http://rdf.freebase.com/ns/type.content_import.content>	<http://rdf.freebase.com/ns/m.05lddvh>	.
+<http://rdf.freebase.com/ns/m.05lddvr>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05lddvr>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05ldgmw>	<http://rdf.freebase.com/ns/common.image.rights_holder_text_attribution>	"The Department of Homeland Security"@en	.
+<http://rdf.freebase.com/ns/m.05ldgmw>	<http://rdf.freebase.com/ns/common.image.appears_in_topic_gallery>	<http://rdf.freebase.com/ns/m.01fp_h>	.
+<http://rdf.freebase.com/ns/m.05ldgmw>	<http://rdf.freebase.com/ns/type.content.uploaded_by>	<http://rdf.freebase.com/ns/m.0220tm0>	.
+<http://rdf.freebase.com/ns/m.05ldgmw>	<http://rdf.freebase.com/ns/type.object.name>	"ICE-Logo"@en	.
+<http://rdf.freebase.com/ns/m.05ldgmw>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05ldgmw>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05ldgmw>	<http://rdf.freebase.com/ns/type.content.media_type>	<http://rdf.freebase.com/ns/m.08y0>	.
+<http://rdf.freebase.com/ns/m.05ldgmw>	<http://rdf.freebase.com/ns/common.image.size>	<http://rdf.freebase.com/ns/m.05ldgn8>	.
+<http://rdf.freebase.com/ns/m.05ldgmw>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.05smz>	.
+<http://rdf.freebase.com/ns/m.05ldgmw>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/images/en_id/21320786"	.
+<http://rdf.freebase.com/ns/m.05ldgmw>	<http://rdf.freebase.com/ns/type.content.length>	"95261"	.
+<http://rdf.freebase.com/ns/m.05ldgmw>	<http://rdf.freebase.com/ns/type.content.blob_id>	"ad07298f0e91ee8965f69d745975b0aceff8711e9fb0a78aa3a8eec2985b40b8"	.
+<http://rdf.freebase.com/ns/m.05ldgmw>	<http://rdf.freebase.com/ns/type.content.source>	<http://rdf.freebase.com/ns/m.05ldgn3>	.
+<http://rdf.freebase.com/ns/m.05ldgmw>	<http://rdf.freebase.com/key/wikipedia.images.en_id>	"21320786"	.
+<http://rdf.freebase.com/ns/m.05ldgmw>	<http://www.w3.org/2000/01/rdf-schema#label>	"ICE-Logo"@en	.
+<http://rdf.freebase.com/ns/m.05ldgmw>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05ldgmw>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.image>	.
+<http://rdf.freebase.com/ns/m.05ldgql>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05ldgql>	<http://rdf.freebase.com/ns/type.content.media_type>	<http://rdf.freebase.com/ns/m.09g2>	.
+<http://rdf.freebase.com/ns/m.05ldgql>	<http://rdf.freebase.com/ns/type.content.uploaded_by>	<http://rdf.freebase.com/ns/m.03yxnnm>	.
+<http://rdf.freebase.com/ns/m.05ldgql>	<http://rdf.freebase.com/ns/type.content.text_encoding>	<http://rdf.freebase.com/ns/m.0g4g>	.
+<http://rdf.freebase.com/ns/m.05ldgql>	<http://rdf.freebase.com/ns/type.content.length>	"39"	.
+<http://rdf.freebase.com/ns/m.05ldgql>	<http://rdf.freebase.com/ns/type.content.blob_id>	"49fabe4234b8a69c73c1b28b9a9f8c948aee4be1e61130f0229d16466823f4ff"	.
+<http://rdf.freebase.com/ns/m.05ldgql>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05ldh33>	<http://rdf.freebase.com/ns/type.content_import.content>	<http://rdf.freebase.com/ns/m.05ldh2w>	.
+<http://rdf.freebase.com/ns/m.05ldh33>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05ldh33>	<http://rdf.freebase.com/ns/type.content_import.uri>	<http://upload.wikimedia.org/wikipedia/en/c/cb/Nikolay_Fedorov_1988.jpg>	.
+<http://rdf.freebase.com/ns/m.05ldh33>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05ldmbk>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05ldmbk>	<http://rdf.freebase.com/ns/type.content_import.content>	<http://rdf.freebase.com/ns/m.05ldmb9>	.
+<http://rdf.freebase.com/ns/m.05ldmbk>	<http://rdf.freebase.com/ns/type.content_import.uri>	<http://upload.wikimedia.org/wikipedia/commons/3/35/Longannet_power_station.jpg>	.
+<http://rdf.freebase.com/ns/m.05ldmbk>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05ldn9k>	<http://rdf.freebase.com/ns/type.content_import.content>	<http://rdf.freebase.com/ns/m.05ldn99>	.
+<http://rdf.freebase.com/ns/m.05ldn9k>	<http://rdf.freebase.com/ns/type.content_import.uri>	<http://upload.wikimedia.org/wikipedia/commons/4/41/Kyrks%25C3%25A6ter%25C3%25B8ra.JPG>	.
+<http://rdf.freebase.com/ns/m.05ldn9k>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05ldn9k>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/type.content_import>	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/Arndt-Schulz_rule"	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/Arndt$2013Schulz_rule"	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/common.topic.article>	<http://rdf.freebase.com/ns/m.05ldsx>	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/key/wikipedia.de>	"Arndt-Schulz-Gesetz"	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/symbols.namesake.named_after>	<http://rdf.freebase.com/ns/m.05ldpw>	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://de.wikipedia.org/wiki/Arndt-Schulz-Regel>	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/de/Arndt-Schulz-Regel"	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://de.wikipedia.org/wiki/index.html?curid=3799967>	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en/Arndt-Schulz_law"	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/de_id/3799967"	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/common.topic>	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/de_title/Arndt-Schulz-Regel"	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://en.wikipedia.org/wiki/index.html?curid=1659919>	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/common.topic.description>	"Arndt–Schulz rule or Schulz' law is a claimed law concerning the effects of pharmaca or poisons in various concentrations. It states that:\nFor every substance, small doses stimulate, moderate doses inhibit, large doses kill.\nThat is to say, highly diluted pharmaca or poisons enhance life processes, while strong concentrations may inhibit these processes and even terminate them.\nThe rule was named after Hugo Paul Friedrich Schulz and Rudolf Arndt. The latter originally formulated it in 1888. However, the exceptions to the rule are so numerous that it can not be considered a general law. For instance, many paralysing substances have no exciting effect in weak doses, and what constitutes a weak, medium or strong stimulus is highly individual, as pointed out by Arndt himself.\nThe rule is no longer cited in modern pharmacology texts, having been supplanted by the theory of hormesis."@en	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/symbols.namesake>	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/de/Arndt-Schulz-Gesetz"	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/type.object.name>	"Arndt-Schulz-Regel"@de	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/type.object.name>	"Arndt–Schulz rule"@en	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en_title/Arndt$2013Schulz_rule"	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/type.object.key>	"/en/arndt-schulz_rule"	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://en.wikipedia.org/wiki/Arndt%25E2%2580%2593Schulz_rule>	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/symbols.namesake.named_after>	<http://rdf.freebase.com/ns/m.03m6kt_>	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/common.topic.description>	"Die Arndt-Schulz-Regel, auch Arndt-Schulz-Gesetz genannt, ist eine behauptete Richtlinie zur Reaktion des Körpers auf Reize. Sie lautet:\n„Schwache Reize fachen die Lebenstätigkeit an, mittelstarke Reize fördern sie, starke hemmen sie, stärkste heben sie auf.“\nDiese Regel wurde nach dem Pharmakologen Hugo Paul Friedrich Schulz und dem Psychologen Rudolf Arndt benannt. Die beiden Professoren der Universität Greifswald entwickelten diese Richtlinie um 1899.\nEin Beispiel für die Arndt-Schulz-Regel: Ein Kältereiz beim Wechselduschen steigert die Immunabwehr, die gleiche Wassertemperatur über längere Zeit führt zu „Erkältungskrankheiten“; über sehr lange Zeit zu Unterkühlung und dann gegebenenfalls zum Tod. Generell muss aber diese Richtlinie noch individuell betrachtet werden, z. B. „Was ist ein schwacher oder starker Reiz?“.\nDes Weiteren sind die Ausnahmen dieser Richtlinie so zahlreich, dass es nicht als ein allgemeines Gesetz bezeichnet werden sollte. So haben zum Beispiel viele lähmende Substanzen einen anderen Effekt, als die Richtlinie vorgibt. In den modernen Büchern der Pharmakologie wird diese Richtlinie nicht mehr zitiert."@de	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/type.object.key>	"/wikipedia/en_id/1659919"	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/ns/common.topic.topic_equivalent_webpage>	<http://en.wikipedia.org/wiki/Arndt%13Schulz_rule>	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/key/wikipedia.en>	"Arndt-Schulz_law"	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/key/wikipedia.en>	"Arndt$2013Schulz_rule"	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/key/wikipedia.en>	"Arndt-Schulz_rule"	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/key/wikipedia.en_id>	"1659919"	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/key/wikipedia.de_id>	"3799967"	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/key/wikipedia.de_title>	"Arndt-Schulz-Regel"	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/key/en>	"arndt-schulz_rule"	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/key/wikipedia.de>	"Arndt-Schulz-Regel"	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://rdf.freebase.com/key/wikipedia.en_title>	"Arndt$2013Schulz_rule"	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://www.w3.org/2000/01/rdf-schema#label>	"Arndt-Schulz-Regel"@de	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://www.w3.org/2000/01/rdf-schema#label>	"Arndt–Schulz rule"@en	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/common.topic>	.
+<http://rdf.freebase.com/ns/m.05ldsr>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://rdf.freebase.com/ns/symbols.namesake>	.
+<http://rdf.freebase.com/ns/m.05ldstt>	<http://rdf.freebase.com/ns/common.image.size>	<http://rdf.freebase.com/ns/m.04s2rdv>	.
+<http://rdf.freebase.com/ns/m.05ldstt>	<http://rdf.freebase.com/ns/common.image.appears_in_topic_gallery>	<http://rdf.freebase.com/ns/m.04d83y>	.
+<http://rdf.freebase.com/ns/m.05ldstt>	<http://rdf.freebase.com/ns/common.licensed_object.license>	<http://rdf.freebase.com/ns/m.034jd>	.
+<http://rdf.freebase.com/ns/m.05ldstt>	<http://rdf.freebase.com/ns/type.content.blob_id>	"2a98f3d4ba74d0861f9100dadd24aaac1a176ece7ac4fea5f31bf8de557c381e"	.
+<http://rdf.freebase.com/ns/m.05ldstt>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.content>	.
+<http://rdf.freebase.com/ns/m.05ldstt>	<http://rdf.freebase.com/ns/type.content.media_type>	<http://rdf.freebase.com/ns/m.08x8>	.
