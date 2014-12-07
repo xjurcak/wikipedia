@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by xjurcak on 10/25/2014.
+ * Data class for freebase topic
  */
 public class FreebaseTopic extends FreebaseObject {
 

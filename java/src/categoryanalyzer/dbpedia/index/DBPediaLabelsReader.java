@@ -6,7 +6,7 @@ import categoryanalyzer.index.TopicReader;
 import java.io.InputStream;
 
 /**
- * Created by xjurcak on 10/13/2014.
+ * Create topics stream from dbpedia label_en.ttl file
  */
 public class DBPediaLabelsReader extends TopicReader {
 

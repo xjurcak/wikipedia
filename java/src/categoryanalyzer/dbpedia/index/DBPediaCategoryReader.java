@@ -6,7 +6,7 @@ import categoryanalyzer.index.CategoryReader;
 import java.io.InputStream;
 
 /**
- * Created by xjurcak on 10/13/2014.
+ * Create category stream from dbpedia category_label_en.ttl file
  */
 public class DBPediaCategoryReader extends CategoryReader {
 

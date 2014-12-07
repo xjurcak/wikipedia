@@ -8,7 +8,10 @@ import categoryanalyzer.index.*;
 import java.io.File;
 
 /**
- * Created by xjurcak on 10/31/2014.
+ * Application for comparing dbpedia and freebase categories
+ * Arguments:
+ *     -article is name for dbpedia article to be searched and compared with freebase topic.
+ *     -index is path to index directory. Same directory which was used as input for IndexApplication
  */
 public class Application {
 
@@ -16,9 +19,9 @@ public class Application {
 
         String usage = "This aplication compare DPBedia and Freebase categories. Indexes created by IndexApplication in INDEX_PATH directory are used for comparison. \n"
                 + "Usage: \n"
-                + "sk.xjurcak.ir.Application -article TITLE [-index INDEX_PATH]\n"
+                + "-article TITLE [-index INDEX_PATH]\n"
                 + "-article TITLE: DBPedia article name to compare."
-                + "[-index INDEX_PATH]: Path to indexes stored bz IndexApplication";
+                + "[-index INDEX_PATH]: Path to indexes stored by IndexApplication";
 
 
         String indexPath = "indexes";
@@ -57,6 +60,7 @@ public class Application {
         File topicLabelPath = IndexPaths.createTopicLabelPath(indexDir, IndexPaths.Source.DBPEDIA, IndexPaths.Lang.EN);
         File freebaseTopicPath = IndexPaths.createTopicPath(indexDir, IndexPaths.Source.FREEBASE, IndexPaths.Lang.EN);
 
+        //find dbpedia article in index
         Topic[] topics = new Topic[0];
         try {
             topics = TopicSearcher.search(topicLabelPath, TopicIndexer.TopicField.TITLE, article);
@@ -64,23 +68,29 @@ public class Application {
             e.printStackTrace();
         }
 
+        //if no article in dbpedia was founded we finish. Nothing to compare.
         if(topics.length == 0){
             System.out.println("Article with name "+ article + " has not been found in DbPedia articles.");
             System.exit(1);
         }
 
+        //iterate founded topics and compare with freebase equivalents
         for(Topic topic : topics){
             try {
+                //get topic categories from index
                 Category[] dbPediaTopicCategories = getDBPediaCategoriesLabels(indexDir, topic.getId());
                 printDbPediaTopic(topic, dbPediaTopicCategories);
 
+                //search for freebase topics with same title as dbpedia article
                 Topic[] freebaseTopics = TopicSearcher.search(freebaseTopicPath, TopicIndexer.TopicField.TITLE, topic.getTitle());
 
+                //nothing to compare finish
                 if(freebaseTopics.length == 0){
                     System.out.println("Nothing to compare. Article with name "+ topic.getTitle() + " has not been found in Freebase topics.");
                     System.exit(1);
                 }
 
+                //compare categories
                 compareWithFreebaseTopics(indexDir, topic, dbPediaTopicCategories, freebaseTopics);
 
             } catch (ParseException e) {
@@ -89,10 +99,16 @@ public class Application {
         }
     }
 
+    /**
+     * Compare dbpedia categories with freebase topics. This method found labels for categories.
+     */
     private static void compareWithFreebaseTopics(File indexDir, Topic dbPediaTopic, Category[] dbPediaTopicCategories, Topic[] freebaseTopics) throws ParseException {
         File categoriesIndexFile = IndexPaths.createCategoryPath(indexDir, IndexPaths.Source.FREEBASE, IndexPaths.Lang.EN);
         for(Topic topic : freebaseTopics){
+            //Topic contain only topic id we need labels for comparison
             Category[] fCat = getContents(categoriesIndexFile, topic);
+
+            //do comparison
             compareWithFreebaseTopic(dbPediaTopic, dbPediaTopicCategories, topic, fCat);
         }
     }
@@ -100,7 +116,11 @@ public class Application {
     private static void compareWithFreebaseTopic(Topic dbPediaTopic, Category[] dbPediaTopicCategories, Topic freebaseTopic, Category[] freebaseTopicCategories) {
         System.out.println("==================================== Comparison start: dbPedia article with id: " + dbPediaTopic.getId() + " and freebase topic with id : " + freebaseTopic.getId()  + "==================================\n\n");
 
+
+        //first print two columns. First column dbpedia categories, second freebase
         int iteration = Math.max(dbPediaTopicCategories.length, freebaseTopicCategories.length);
+
+
         for (int i = 0; i < iteration; i++) {
             String dbCat = "";
             if(i < dbPediaTopicCategories.length && dbPediaTopicCategories[i] != null){
@@ -116,6 +136,7 @@ public class Application {
         }
         System.out.printf("<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n\n");
 
+        //compute levenshtein distance and print best matches
         LuceneLevenshteinDistance lld = new LuceneLevenshteinDistance();
         for (int i = 0; i < dbPediaTopicCategories.length; i++) {
 
@@ -147,10 +168,11 @@ public class Application {
         File indexFile = IndexPaths.createTopicArticleCategoriesPath(indexDir, IndexPaths.Source.DBPEDIA, IndexPaths.Lang.EN);
         File categoriesIndexFile = IndexPaths.createCategoryPath(indexDir, IndexPaths.Source.DBPEDIA, IndexPaths.Lang.EN);
 
+        //first get topic types from index
         Topic[] topicTypes = TopicSearcher.search(indexFile, TopicIndexer.TopicField.ID, topicId);
 
         if (topicTypes.length > 0) {
-
+            //get labels for id
             return getContents(categoriesIndexFile, topicTypes[0]);
         } else {
             return new Category[0];
@@ -158,10 +180,11 @@ public class Application {
     }
 
     private static Category[] getContents(File categoriesIndexFile, Topic topicType) throws ParseException {
-        Category[] result = new Category[topicType.getTypesId().size()];
+        Category[] result = new Category[topicType.getTypes().size()];
 
         int i = 0;
-        for (String type : topicType.getTypesId()) {
+        //get labels for categories from index
+        for (String type : topicType.getTypes()) {
             Category[] categories = CategoriesSearcher.search(categoriesIndexFile, type);
             if (categories.length > 0) {
                 result[i] = categories[0];

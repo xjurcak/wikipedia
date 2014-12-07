@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * Created by xjurcak on 10/13/2014.
+ * Create topics stream from dbpedia article_category_en.ttl file
  */
 public class DBPediaArticleCategoryReader extends TopicReader {
 

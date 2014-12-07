@@ -16,6 +16,14 @@ import java.io.IOException;
  * Created by xjurcak on 10/31/2014.
  */
 public class CategoriesSearcher {
+
+    /**
+     * Search for categories in lucene index. Id of category is specified by id parameter.
+     * @param indexDir lucene index directory.
+     * @param id Category id.
+     * @return
+     * @throws ParseException
+     */
     public static Category[] search(File indexDir, String id) throws ParseException {
         try {
             IndexReader reader = DirectoryReader.open(FSDirectory.open(indexDir));

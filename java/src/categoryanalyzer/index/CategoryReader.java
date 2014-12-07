@@ -3,7 +3,7 @@ package categoryanalyzer.index;
 import java.io.*;
 
 /**
- * Created by xjurcak on 10/13/2014.
+ * Abstract stream of Categories used by CategoryIndexer to create index.
  */
 public abstract class CategoryReader {
 
@@ -13,6 +13,10 @@ public abstract class CategoryReader {
         mStream = new BufferedReader(new InputStreamReader(stream));
     }
 
+    /**
+     * Read next category from stream.
+     * @return category or null if end of file reached.
+     */
     public Category nextCategory(){
         String line = null;
         try {
@@ -25,5 +29,10 @@ public abstract class CategoryReader {
         return createContent(line);
     }
 
+    /**
+     * Override this to create category from line read from stream.
+     * @param line
+     * @return
+     */
     protected abstract Category createContent(String line);
 }

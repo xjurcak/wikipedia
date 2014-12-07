@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.io.OutputStream;
 
 /**
-* Created by xjurcak on 12/4/2014.
+* Use this class processor for preprocess freebase dump. This processor process freebase dump lines and create Categories. Category is wrote to OutputStream.
 */
 public class FreebaseTypeRDFLineProcessor extends RDFLineProcessor {
     private FreebaseType type;
@@ -17,18 +17,22 @@ public class FreebaseTypeRDFLineProcessor extends RDFLineProcessor {
 
     @Override
     public void processLine(String... split) throws IOException {
-        //we are still on same object so collect another info
+        //we are still on same subject so collect another info
         if (type != null && split[0].equals(type.getId())) {
 
+            //subject is not category so skip this line
             if (skip)
                 return;
 
         } else {
+            //we find new subject so check old and save it to output stream
             if (!skip && type != null && type.isValid()) {
                 typeNumber++;
                 type.persist(fos);
                 System.out.print("\rType number writed: " + typeNumber);
             }
+
+            //create new freebase category
             type = new FreebaseType();
             type.setId(split[0]);
             skip = false;
@@ -41,6 +45,7 @@ public class FreebaseTypeRDFLineProcessor extends RDFLineProcessor {
             } else {
                 skip = true;
             }
+            //parse title
         } else if (split[1].equals("<http://rdf.freebase.com/ns/type.object.name>")) {
             if (split[2].endsWith("@en")) {
                 type.setEnglishName(split[2]);

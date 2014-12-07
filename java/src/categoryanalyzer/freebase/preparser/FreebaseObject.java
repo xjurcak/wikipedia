@@ -7,7 +7,7 @@ import java.io.OutputStream;
 import java.io.StringWriter;
 
 /**
- * Created by xjurcak on 10/31/2014.
+ * Base class for freebase objects. This object can be store by persist method to output stream.
  */
 public abstract class FreebaseObject {
     private String id;
@@ -41,6 +41,11 @@ public abstract class FreebaseObject {
         names[2] = name;
     }
 
+    /**
+     * Write object as json to output stream. Override writeJson method to inject data in extended classes.
+     * @param fos
+     * @throws IOException
+     */
     public void persist(OutputStream fos) throws IOException {
         StringWriter stringWriter = new StringWriter();
         JsonWriter gson = new JsonWriter(stringWriter);

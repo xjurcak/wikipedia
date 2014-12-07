@@ -3,7 +3,7 @@ package categoryanalyzer.index;
 import java.io.*;
 
 /**
- * Created by xjurcak on 10/13/2014.
+ * Abstract stream of Topics used by TopicIndexer to create index.
  */
 public abstract class TopicReader {
 
@@ -17,6 +17,10 @@ public abstract class TopicReader {
         mStream = new BufferedReader(new InputStreamReader(stream));
     }
 
+    /**
+     * Read next topic form stream.
+     * @return topic or null if end of file reached.
+     */
     public Topic nextTopic(){
         String line = null;
         try {
@@ -29,5 +33,10 @@ public abstract class TopicReader {
         return createTopic(line);
     }
 
+    /**
+     * Override this to create topic from line read from stream.
+     * @param line
+     * @return
+     */
     protected abstract Topic createTopic(String line);
 }

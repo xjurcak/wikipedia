@@ -23,26 +23,29 @@ import java.util.List;
  */
 public class TopicSearcher {
 
-    public static Topic[] search(File indexDir, String queryString) throws ParseException {
-        return search(indexDir, TopicIndexer.TopicField.ID, queryString);
-    }
-
+    /**
+     * Search for topics in lucene index. Name of topic is specified by queryString parameter.
+     * @param indexDir lucene index directory.
+     * @param topicField field for query
+     * @param queryString name of topic or article
+     * @return
+     * @throws ParseException
+     */
     public static Topic[] search(File indexDir, TopicIndexer.TopicField topicField, String queryString) throws ParseException {
         try {
             IndexReader reader = DirectoryReader.open(FSDirectory.open(indexDir));
             IndexSearcher searcher = new IndexSearcher(reader);
             Analyzer analyzer = new StandardAnalyzer();
 
+            //build query for searcher
             QueryBuilder parser = new QueryBuilder(analyzer);
             Query query;
             if(topicField == TopicIndexer.TopicField.ID)
                 query = new TermQuery(new Term(topicField.getName(), queryString));
             else
-                query = new TermQuery(new Term(topicField.getName(), queryString));//parser.createPhraseQuery(topicField.getName(), queryString);
+                query = new TermQuery(new Term(topicField.getName(), queryString));
 
-            //System.out.println("Searching for: " + query.toString());
-
-            // Collect enough docs to show 5 pages
+            // Search for documents
             TopDocs results = searcher.search(query, 5 * 10);
             ScoreDoc[] hits = results.scoreDocs;
 
@@ -51,18 +54,20 @@ public class TopicSearcher {
             int i = 0;
             Gson gson = new Gson();
             for(ScoreDoc doc : hits){
+
+                //Create topic from lucene document
                 Document storedDocument = searcher.doc(doc.doc);
+
+                //get types ids from field. Types are stored as string list in json format.
                 String types = storedDocument.get(TopicIndexer.TopicField.TYPES.getName());
                 List<String> typesArray = null;
                 if(types != null){
                     typesArray = gson.fromJson(types, new TypeToken<List<String>>(){}.getType());
                 }
+
                 categories[i] = new Topic(storedDocument.get(TopicIndexer.TopicField.ID.getName()), storedDocument.get(TopicIndexer.TopicField.TITLE.getName()), typesArray);
                 i++;
             }
-
-            int numTotalHits = results.totalHits;
-            //System.out.println(numTotalHits + " total matching documents");
 
             reader.close();
 

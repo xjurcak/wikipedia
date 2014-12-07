@@ -1,6 +1,8 @@
 package categoryanalyzer.freebase.preparser;
 
 /*
+ * FIX: We changed reader to skip too long lines due to OutOfMemoryException.
+ *
  * Copyright (c) 1996, 2013, Oracle and/or its affiliates. All rights reserved.
  * ORACLE PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
  *
@@ -38,6 +40,9 @@ import java.util.Spliterator;
 import java.util.Spliterators;
 
 /**
+ *
+ *
+ *
  * Reads text from a character-input stream, buffering characters so as to
  * provide for the efficient reading of characters, arrays, and lines.
  *

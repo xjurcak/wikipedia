@@ -3,7 +3,7 @@ package categoryanalyzer.index;
 import java.io.File;
 
 /**
- * Created by xjurcak on 11/2/2014.
+ * Utility class for create paths to index
  */
 public class IndexPaths {
 

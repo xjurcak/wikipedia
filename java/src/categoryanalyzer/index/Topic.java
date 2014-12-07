@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by xjurcak on 11/1/2014.
+ * Data class for Freebase topic or DBPedia article.
  */
 public class Topic {
 
@@ -41,7 +41,7 @@ public class Topic {
         return title;
     }
     
-    public List<String> getTypesId(){
+    public List<String> getTypes(){
         return types;
     }
 

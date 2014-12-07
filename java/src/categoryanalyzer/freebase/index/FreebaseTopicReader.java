@@ -7,7 +7,7 @@ import categoryanalyzer.index.TopicReader;
 import java.io.FileInputStream;
 
 /**
- * Created by xjurcak on 10/13/2014.
+ * Create topics stream from processed freebase topics
  */
 public class FreebaseTopicReader extends TopicReader {
 

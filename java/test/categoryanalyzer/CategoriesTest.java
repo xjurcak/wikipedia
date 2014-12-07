@@ -43,7 +43,7 @@ public class CategoriesTest extends LuceneTestCase {
         assertEquals(topics[0].getTitle(), "Pretty Green Onions");
 
         for(Topic topic : topics){
-            for(String id : topic.getTypesId()){
+            for(String id : topic.getTypes()){
                 assertEquals(CategoriesSearcher.search(categoriesIndexFile, id).length, 1);
             }
         }
@@ -63,7 +63,7 @@ public class CategoriesTest extends LuceneTestCase {
             if(topicTypes.length > 0) {
                 assertTrue(topicTypes.length == 1);
 
-                for (String id : topicTypes[0].getTypesId()) {
+                for (String id : topicTypes[0].getTypes()) {
                     Category[] categories = CategoriesSearcher.search(categoriesIndexFile, id);
                     assertEquals(categories.length, 1);
                 }

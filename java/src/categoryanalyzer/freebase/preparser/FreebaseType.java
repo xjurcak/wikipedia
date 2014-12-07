@@ -8,7 +8,7 @@ import java.io.OutputStream;
 import java.io.StringWriter;
 
 /**
- * Created by xjurcak on 10/25/2014.
+ * Data class for freebase category used in dump preprocessing
  */
 public class FreebaseType {
 
@@ -43,6 +43,11 @@ public class FreebaseType {
         names[2] = name;
     }
 
+    /**
+     * Write object to output stream. This method use json format.
+     * @param fos
+     * @throws IOException
+     */
     public void persist(OutputStream fos) throws IOException {
         StringWriter stringWriter = new StringWriter();
         JsonWriter gson = new JsonWriter(stringWriter);
@@ -79,6 +84,10 @@ public class FreebaseType {
         gson.endArray();
     }
 
+    /**
+     * check validity of object. If object is not valid freebase type we don't need save it to output stream when preprocess dumps
+     * @return
+     */
     public boolean isValid() {
         if(id == null)
             return false;

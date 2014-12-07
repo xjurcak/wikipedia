@@ -15,7 +15,10 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 
 /**
- * Created by xjurcak on 10/31/2014.
+ * Create lucene index for topics. Index fields names are:
+ *  id
+ *  title
+ *  types
  */
 public class TopicIndexer {
 
@@ -37,8 +40,13 @@ public class TopicIndexer {
 
     private static Gson gson = new Gson();
 
-    public static void index(TopicReader reader, File indexFile) {
-        index(reader, indexFile, false);
+    /**
+     * Create index from stream of topics to indexFile directory
+     * @param reader stream of topics
+     * @param indexDiR directory to store index
+     */
+    public static void index(TopicReader reader, File indexDiR) {
+        index(reader, indexDiR, false);
     }
 
     private static void index(TopicReader reader, File indexDir, boolean update) {
@@ -48,9 +56,12 @@ public class TopicIndexer {
 
             int i = 0;
 
+            //iterate stream of topics
             while ((topic = reader.nextTopic()) != null) {
                 i++;
-                if (topic.getId() != null && (topic.getTitle() != null || topic.getTypesId() != null)) {
+                //if topic is valid write it to index
+                if (topic.getId() != null && (topic.getTitle() != null || topic.getTypes() != null)) {
+
                     indexTopic(iw, topic);
                     if (i % 1000 == 0) {
                         System.out.print("\rTopics innndexed count: " + i);
@@ -67,6 +78,13 @@ public class TopicIndexer {
 
     }
 
+    /**
+     * Construct lucene IndexWriter
+     * @param indexPath
+     * @param update
+     * @return
+     * @throws IOException
+     */
     private static IndexWriter createIndexWriter(File indexPath, boolean update) throws IOException {
         System.out.println("Indexing to directory '" + indexPath + "'...");
 
@@ -81,18 +99,11 @@ public class TopicIndexer {
         else
             iwc.setOpenMode(IndexWriterConfig.OpenMode.CREATE);
 
-        // Optional: for better indexing performance, if you
-        // are indexing many documents, increase the RAM
-        // buffer.  But if you do this, increase the max heap
-        // size to the JVM (eg add -Xmx512m or -Xmx1g):
-        //
-        // iwc.setRAMBufferSizeMB(256.0);
-
         return new IndexWriter(dir, iwc);
     }
 
     /**
-     * Indexes a single document
+     * Indexes a single topic
      */
     static void indexTopic(IndexWriter writer, Topic topic) throws IOException {
 
@@ -105,24 +116,15 @@ public class TopicIndexer {
         if (topic.getTitle() != null)
             doc.add(new StringField(TopicField.TITLE.getName(), topic.getTitle(), Field.Store.YES));
 
-        if (topic.getTypesId() != null) {
-            String json = gson.toJson(topic.getTypesId());
+        if (topic.getTypes() != null) {
+            //create json from types
+            String json = gson.toJson(topic.getTypes());
             doc.add(new StringField(TopicField.TYPES.getName(), json, Field.Store.YES));
         }
 
         if (writer.getConfig().getOpenMode() == IndexWriterConfig.OpenMode.CREATE) {
             // New index, so we just add the document (no old document can be there):
             writer.addDocument(doc);
-        } else {
-//            // Existing index (an old copy of this document may have been indexed) so
-//            // we use updateDocument instead to replace the old one matching the exact
-//            // path, if present:
-//            if (topic.getTitle() != null)
-//                writer.updateDocValues(new Term("id", topic.getId()), new TextField("title", topic.getTitle(), Field.Store.YES));
-//
-//            if (topic.getTypes() != null) {
-//                writer.updateBinaryDocValue(new Term("id", topic.getId()), "types", new BytesRef(topic.getTypes().getBytes()));
-//            }
         }
     }
 }

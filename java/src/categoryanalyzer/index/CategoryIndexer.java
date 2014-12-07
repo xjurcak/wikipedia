@@ -13,9 +13,17 @@ import org.apache.lucene.util.Version;
 import java.io.*;
 
 /**
- * Created by xjurcak on 10/31/2014.
+ * Create lucene index for categories. Index fields names are:
+ *  id
+ *  title
  */
 public class CategoryIndexer {
+
+    /**
+     * Create index from stream of categories to indexDir directory
+     * @param reader stream of topics
+     * @param indexDir directory to store index
+     */
     public static void index(CategoryReader reader, File indexDir) {
         try {
             Category content;
@@ -23,7 +31,10 @@ public class CategoryIndexer {
 
             int i = 0;
 
+            //iterate through stream
             while((content = reader.nextCategory()) != null){
+
+                //if category valid index it
                 if(content.getId() != null && content.getTitle() != null) {
                     i++;
                     indexCategory(iw, content.getId(), content.getTitle());
@@ -53,17 +64,10 @@ public class CategoryIndexer {
         // previously indexed documents:
         iwc.setOpenMode(IndexWriterConfig.OpenMode.CREATE);
 
-        // Optional: for better indexing performance, if you
-        // are indexing many documents, increase the RAM
-        // buffer.  But if you do this, increase the max heap
-        // size to the JVM (eg add -Xmx512m or -Xmx1g):
-        //
-        // iwc.setRAMBufferSizeMB(256.0);
-
         return new IndexWriter(dir, iwc);
     }
 
-    /** Indexes a single document */
+    /** Indexes a single category */
     static void indexCategory(IndexWriter writer, String id, String title) throws IOException {
 
             // make a new, empty document

@@ -7,7 +7,7 @@ import categoryanalyzer.index.CategoryReader;
 import java.io.FileInputStream;
 
 /**
- * Created by xjurcak on 10/13/2014.
+ * Create category stream from processed freebase types
  */
 public class FreebaseCategoryReader extends CategoryReader {
 

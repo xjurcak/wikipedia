@@ -6,7 +6,11 @@ import java.io.*;
 import java.util.zip.GZIPInputStream;
 
 /**
- * Created by xjurcak on 10/31/2014.
+ * Application for freebase data dump processing
+ * arg:
+ *     -type is type of data we want parse from dump. Use types for freebase type and topics for freebase topics
+ *     -data is datapath to freebase dump file in gzip format
+ *     output is name where results are saved.
  */
 public class PreprocessorApplication {
 
@@ -19,6 +23,7 @@ public class PreprocessorApplication {
 
         String usage = "This aplication preprocess Freebase data."
                 + "Usage: \n"
+                + "-type [topics|types] -data DATA_PATH output\n\n"
                 + "-type [topics|types]: topic for topics types for categories.\n"
                 + "-data DATA_PATH: Path for freebase data\n"
                 + "output : path of output file \n";

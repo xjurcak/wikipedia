@@ -1,7 +1,7 @@
 package categoryanalyzer.index;
 
 /**
- * Created by xjurcak on 10/31/2014.
+ * Data class for category used by CategoryIndexer.
  */
 public class Category {
 
