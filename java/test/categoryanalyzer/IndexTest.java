@@ -13,8 +13,10 @@ public class IndexTest extends LuceneTestCase {
 
     public static File indexDir = new File("indexes");
 
-
-
+    /**
+     * Test for searching category in freebase category index.
+     * @throws ParseException
+     */
     public void testFreebaseSearch() throws ParseException {
         File indexFile = IndexPaths.createCategoryPath(indexDir, IndexPaths.Source.FREEBASE, IndexPaths.Lang.EN);
         Category[] categories = CategoriesSearcher.search(indexFile, "base.birdconservation.topic");
@@ -24,6 +26,11 @@ public class IndexTest extends LuceneTestCase {
 
     }
 
+
+    /**
+     * Test for searching category in dbpedia category index.
+     * @throws ParseException
+     */
     public void testDBPediaSearch() throws ParseException {
         File indexFile = IndexPaths.createCategoryPath(indexDir, IndexPaths.Source.DBPEDIA, IndexPaths.Lang.EN);
         Category[] categories = CategoriesSearcher.search(indexFile, "Isaac Newton");
@@ -33,6 +40,10 @@ public class IndexTest extends LuceneTestCase {
 
     }
 
+    /**
+     * Test for searching topic in freebase topic index. This test also search for all categories stored in topic.
+     * @throws ParseException
+     */
     public void testFreebaseTopicsSearch() throws ParseException {
         File indexFile = IndexPaths.createTopicPath(indexDir, IndexPaths.Source.FREEBASE, IndexPaths.Lang.EN);
         File categoriesIndexFile = IndexPaths.createCategoryPath(indexDir, IndexPaths.Source.FREEBASE, IndexPaths.Lang.EN);
@@ -50,6 +61,11 @@ public class IndexTest extends LuceneTestCase {
 
     }
 
+    /**
+     * Test for searching article in dbpedia topic index. Article label search are tested and categories for article are searched to.
+     * This test also search for categories labels.
+     * @throws ParseException
+     */
     public void testDBPediaTopicsSearch() throws ParseException {
         File topicLabelPath = IndexPaths.createTopicLabelPath(indexDir, IndexPaths.Source.DBPEDIA, IndexPaths.Lang.EN);
         File categoriesIndexFile = IndexPaths.createCategoryPath(indexDir, IndexPaths.Source.DBPEDIA, IndexPaths.Lang.EN);
