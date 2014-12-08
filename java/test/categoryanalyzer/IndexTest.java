@@ -9,7 +9,7 @@ import java.io.File;
 /**
  * Created by xjurcak on 10/13/2014.
  */
-public class CategoriesTest extends LuceneTestCase {
+public class IndexTest extends LuceneTestCase {
 
     public static File indexDir = new File("indexes");
 
